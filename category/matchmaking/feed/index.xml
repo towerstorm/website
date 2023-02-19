@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Matchmaking &#8211; Tower Storm</title>
+	<atom:link href="/category/matchmaking/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Wed, 02 Jul 2014 15:07:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Contact form failure + responses to questions (matchmaking!)</title>
+		<link>/2014/contact-form-failure-responses-to-questions-matchmaking/</link>
+					<comments>/2014/contact-form-failure-responses-to-questions-matchmaking/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Wed, 02 Jul 2014 15:07:22 +0000</pubDate>
+				<category><![CDATA[Matchmaking]]></category>
+		<category><![CDATA[Questions and Answers]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=395</guid>
+
+					<description><![CDATA[Thank you everyone who sent in feedback now that the contact form is fixed, we really appreciate it! Unfortunately I discovered yesterday that email addresses weren&#8217;t being sent through with the form so I have no way to actually respond to your questions. Thus i&#8217;ve decided to answer them here instead: Dieter Schulte &#8211; Hey I <a href="/2014/contact-form-failure-responses-to-questions-matchmaking/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Thank you everyone who sent in feedback now that the contact form is fixed, we really appreciate it! Unfortunately I discovered yesterday that email addresses weren&#8217;t being sent through with the form so I have no way to actually respond to your questions. Thus i&#8217;ve decided to answer them here instead:</p>
+<hr />
+<p><span style="color: #222222;"><strong>Dieter Schulte</strong> &#8211; </span><span style="color: #222222;">Hey I love this game, you guys have done a wonderful job! My friends and I were wondering if you were planning on adding a matchmaking system of some sort. even if it doesn&#8217;t have a rating system attached to it?</span></p>
+<p><em>Hell yes! We&#8217;ve been wanting matchmaking for so long ourselves and you&#8217;ll be happy to know we&#8217;re just putting the finishing touches on the matchmaking system right now. It has a rating system and you can also find matches as a team of 2 or 3 too so you can play with your friends against others all over the world. It will also feature a ladder of the best Tower Storm players so we can see who the best player in the world really is. </em></p>
+<hr />
+<p><strong>David &#8211; </strong><span style="color: #222222;"> I love this game but am sad to see there is no matchmaking at all. Would love to see this as a feature if it&#8217;s still being updated.</span></p>
+<p><em>Ok ok, we&#8217;ll stop making you sad. Matchmaking will be available next patch! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </em></p>
+<hr />
+<p><strong><span style="color: #222222;">Alexia</span></strong> &#8211; <span style="color: #222222;">I found your game, played the tutorial and accidentally managed to bug it to get stuck. Basically I upgraded my first crossbow tower a few times, so by the time the tutorial told me to build a second tower the first one managed to kill it before I built the second. Now it just keeps telling me to build another crossbow even though I have! Hope you can fix it.</span></p>
+<p><em>Thanks for letting us know Alexia. We&#8217;ll get this fixed in the next release. </em></p>
+<hr />
+<p><span style="text-decoration: underline;"><strong><span style="color: #222222;">Chris Collins</span></strong><span style="color: #222222;"> </span></span>&#8211; <span style="color: #222222;">FREE all-in-one Home Security System</span></p>
+<p><i>Oh Chris, little do you know how useless a home security system is when droids and ice elementals have rocked up at your door. </i></p>
+<hr />
+<p>The bug with emails not coming through has been fixed too, so if you send anything through the contact form in the future I&#8217;ll be able to email you back <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/contact-form-failure-responses-to-questions-matchmaking/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

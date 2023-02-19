@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tower Storm</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Tue, 30 May 2017 02:13:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Tower Storm is now Open Source</title>
+		<link>/2017/tower-storm-is-now-open-source/</link>
+					<comments>/2017/tower-storm-is-now-open-source/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Mon, 29 May 2017 21:59:47 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Modding]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<guid isPermaLink="false">/?p=451</guid>
+
+					<description><![CDATA[Wow it&#8217;s been a while. Over 2 years since the last blog post! In that time I&#8217;ve moved between 4 cities on 3 different continents, from Brisbane to Amsterdam to New York to Seattle. Basically Tower Storm wasn&#8217;t working out for me financially and so I had to put my game development dreams on hold <a href="/2017/tower-storm-is-now-open-source/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Wow it&#8217;s been a while. Over 2 years since the last blog post! In that time I&#8217;ve moved between 4 cities on 3 different continents, from Brisbane to Amsterdam to New York to Seattle. Basically Tower Storm wasn&#8217;t working out for me financially and so I had to put my game development dreams on hold for a while. It turned out well though, I started working at <a href="http://c9.io/">Cloud9</a> where I&#8217;ve been working on an online IDE in Javascript and NodeJS (which you should totally use because it&#8217;s awesome). This has been a ton of fun and I&#8217;ve learnt a LOT. We then got acquired by Amazon in July last year which is why I ended up living in Seattle.</p>
+<p>I didn&#8217;t actually stop working on Tower Storm though. I didn&#8217;t update the blog because I didn&#8217;t release any new features but I was pushing out bug fixes and patches to keep the servers stable and improve the gameplay. Some of these features included being able to easily pan and zoom with your mouse and improving the general UI.</p>
+<p>Last year I realized I was probably never going to have the time to build Tower Storm into the massive TD game I always wanted to be. My original vision for Tower Storm was a Multiplayer TD game with as much depth as DOTA or League of Legends. Imagine a TD game where you can have up to 16 players on a huge map with hundreds of towers, minions and abilities! How awesome would that be! But there&#8217;s no way I&#8217;d have time to create all of this with my tiny team of friends, and there was very little chance someone was going to invest millions of dollars into making this happen (though if you&#8217;re out there, please let me know! ;))</p>
+<p>Which brings me to today&#8217;s announcement: <a href="http://github.com/towerstorm/game">Tower Storm is now Open Source</a>!</p>
+<p>With Tower Storm open sourced anyone in the world can grab a copy of the code and build their own maps, towers, minions, or even completely new game modes. Maybe someone will build a Story mode, or crazy new survival levels, or tribute maps to some of the best maps in Warcraft 3 (Azure TD, Skibis Castle, Burbenog, would all be awesome!). And if your creations are great I could add them to the main game so everyone can enjoy them.</p>
+<p>I&#8217;ve spent the last few months cleaning up the code base to make it super easy to run and make your own modifications. You don&#8217;t even need to be a programmer to make your own towers, minions or maps, you can just edit the simple text config file and refresh the page and your new creation will be in the game.</p>
+<p>Soon I&#8217;ll release some tutorials showing you how to work with the code and create your own mods. As well as setup forums so everyone can share their creations with each other.</p>
+<p>For now <a href="http://github.com/towerstorm/game">check out the game on Github</a> and let me know what cool creations you come up with!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/tower-storm-is-now-open-source/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New maps, gameplay, features and chat &#8211; the next evolution of Tower Storm is finally here</title>
+		<link>/2014/new-maps-gameplay-features-and-chat-the-next-evolution-of-tower-storm-is-finally-here/</link>
+					<comments>/2014/new-maps-gameplay-features-and-chat-the-next-evolution-of-tower-storm-is-finally-here/#comments</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2014 07:35:20 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=416</guid>
+
+					<description><![CDATA[Been craving some Multiplayer Tower Defense but bored of the single simple Tower Storm map? Your prayers have been answered! This has been and will forever be the longest wait between releases for Tower Storm. We were very ambitious taking all your ideas on board and building something great. Unfortunately it took a lot longer <a href="/2014/new-maps-gameplay-features-and-chat-the-next-evolution-of-tower-storm-is-finally-here/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Been craving some Multiplayer Tower Defense but bored of the single simple Tower Storm map? Your prayers have been answered!</p>
+<p>This has been and will forever be the longest wait between releases for Tower Storm. We were very ambitious taking all your ideas on board and building something great. Unfortunately it took a lot longer than expected due to almost all our entire back-end being overhauled and reworked to support matchmaking and all the new features we&#8217;re adding soon.</p>
+<p>So what&#8217;s new in this release?</p>
+<p><strong>Matchmaking Mode</strong></p>
+<p>No longer are you stuck playing Tower Storm with only your group of friends. Now you can take on the world! Matchmaking allows you to queue up by yourself or with up to 3 people and we&#8217;ll pair you with others of a similar skill level and throw you in a game together.</p>
+<p><strong>Leaderboard</strong></p>
+<p>No matchmaking system would be complete without a high scores table. As you win and lose matches your Elo score will go rise and fall and you can see your ranking versus everyone else in the world on the leader board.</p>
+<p><strong>Chat</strong></p>
+<p>Finally you can coordinate attacks and tell your team mates how terrible they&#8217;re playing!  There are 3 new types of chat in Tower Storm. You can add friends and when they&#8217;re online and click on their name to chat with them. You can chat in the matchmaking lobby to coordinate strategy. Lastly you can chat with your team mates in game to all attack at the same time or let them know where they should be building towers.</p>
+<p><strong>Brand new 5 lane map</strong></p>
+<p>We felt the old single lane map was getting a little long in the tooth. So we&#8217;ve retired it for now, instead adding a 5 lane much more exciting battlefield for you to play on.</p>
+<p>When you place minions on the map you now need to select them first then click on the spawn point you&#8217;d like them to spawn from.</p>
+<p><strong>Small castles with big bonuses</strong></p>
+<p>When you destroy small castles on the map your minions now get a health and speed boost. The more castles you kill the stronger they will be. You can click on castles to see what kind of boosts they give, some are much more powerful than others.</p>
+<p><b>Tower and Minion balances</b></p>
+<p>Most of the AOE towers have been slightly nerfed and all minions have had a health buff. We&#8217;re still working on balance and will be monitoring ranked games to see what races are too strong or weak. If you feel some races need a buff or nerf let us know.</p>
+<p><strong>Gold Changes</strong></p>
+<p>Income has been lowered and gold from killing minions has gone way up. You now get three times as much gold for killing a minion and both your allies get half that amount even if they didn&#8217;t participate in the kill. This allows you to focus purely on defence if you like while your allies go on the offensive.</p>
+<p>We hope you enjoy the new release and as always we love all your feedback. Let us know what you think!</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/new-maps-gameplay-features-and-chat-the-next-evolution-of-tower-storm-is-finally-here/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>2D rendered blacksmith</title>
+		<link>/2014/2d-rendered-blacksmith/</link>
+					<comments>/2014/2d-rendered-blacksmith/#respond</comments>
+		
+		<dc:creator><![CDATA[jonathan]]></dc:creator>
+		<pubDate>Sun, 21 Sep 2014 07:48:29 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=412</guid>
+
+					<description><![CDATA[A little 2D render of the blacksmith. Would love to explore more designs for this character, maybe in the future 😉 &#160; &#160; &#160;]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2014/09/blacksmith-progress-shot.png"><img decoding="async" class="alignnone size-full wp-image-413" src="/wp-content/uploads/2014/09/blacksmith-progress-shot.png" alt="blacksmith progress shot" width="6000" height="3207" srcset="/wp-content/uploads/2014/09/blacksmith-progress-shot.png 6000w, /wp-content/uploads/2014/09/blacksmith-progress-shot-300x160.png 300w, /wp-content/uploads/2014/09/blacksmith-progress-shot-768x410.png 768w, /wp-content/uploads/2014/09/blacksmith-progress-shot-1024x547.png 1024w" sizes="(max-width: 6000px) 100vw, 6000px" /></a>A little 2D render of the blacksmith. Would love to explore more designs for this character, maybe in the future <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/2d-rendered-blacksmith/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The bruiser</title>
+		<link>/2014/the-bruiser/</link>
+					<comments>/2014/the-bruiser/#respond</comments>
+		
+		<dc:creator><![CDATA[jonathan]]></dc:creator>
+		<pubDate>Sat, 23 Aug 2014 08:10:47 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=406</guid>
+
+					<description><![CDATA[So I&#8217;ve been working on the Tower Storm maps a lot lately, it&#8217;s been really fun developing my skill set in this area but I really needed something fresh so I thought I&#8217;d concept some minions for a new race. I call this guy the bruiser, he is extremely strong but slow and when he <a href="/2014/the-bruiser/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>So I&#8217;ve been working on the Tower Storm maps a lot lately, it&#8217;s been really fun developing my skill set in this area but I really needed something fresh so I thought I&#8217;d concept some minions for a new race. I call this guy the bruiser, he is extremely strong but slow and when he is sent out all fellow allies receive improved armour and strength.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/the-bruiser/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>First look at the Crusaders homeworld</title>
+		<link>/2014/first-look-at-the-crusaders-homeworld/</link>
+					<comments>/2014/first-look-at-the-crusaders-homeworld/#respond</comments>
+		
+		<dc:creator><![CDATA[jonathan]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2014 18:50:43 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=402</guid>
+
+					<description><![CDATA[&#160; Hello there, I&#8217;m excited to bring you this update. I&#8217;ve been working on the environments and maps. Creating a style for the game as well as trying to develop an efficient pipeline for the development of map creation. I worked on a number of ideas before concluding to the what we have now. The <a href="/2014/first-look-at-the-crusaders-homeworld/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>Hello there, I&#8217;m excited to bring you this update. I&#8217;ve been working on the environments and maps. Creating a style for the game as well as trying to develop an efficient pipeline for the development of map creation.</p>
+<p>I worked on a number of ideas before concluding to the what we have now. The idea behind this is that each race has a home world stylised and themed according to the race. I started developing this idea for the crusaders first, looking at way I can create the illusion of depth by suggesting layers and a higher vs lower ground.</p>
+<p>The grass/ground was the first asset that needed to be completed so that I could layer other elements over the top. I created this in photoshop experimenting with different blending layers.</p>
+<p>After I was happy with the grass I started on the path. I created tile sets for the the paths, this allows us to quickly generate new roads without having to paint or model new assets. This was also created in photoshop using layer effects. Also something worth noting, I used photoshops standard maple leaf brush with scattering set to 0 to create the cut out edges of the grass.</p>
+<p>The environment assets where all modelled in zbrush. Zbrush allows me to quickly concept ideas and bring a nice level of detail to the assets. When I am happy the design I take it into 3Dsmax for rendering. As I am not using these models for real time I&#8217;m not too worried about the polycount. After rendering the assets in 3Ds max I bring them into photoshop for further touches and tweaks.</p>
+<p>I am looking forward to getting the map in as soon as possible so we can start testing and getting a feel for the new map. Happy Days!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="/wp-content/uploads/2014/07/crusader-home-test.png"><img decoding="async" class="alignnone size-full wp-image-403" src="/wp-content/uploads/2014/07/crusader-home-test.png" alt="crusader home test" width="960" height="1200" srcset="/wp-content/uploads/2014/07/crusader-home-test.png 960w, /wp-content/uploads/2014/07/crusader-home-test-240x300.png 240w, /wp-content/uploads/2014/07/crusader-home-test-768x960.png 768w, /wp-content/uploads/2014/07/crusader-home-test-819x1024.png 819w" sizes="(max-width: 960px) 100vw, 960px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/first-look-at-the-crusaders-homeworld/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Contact form failure + responses to questions (matchmaking!)</title>
+		<link>/2014/contact-form-failure-responses-to-questions-matchmaking/</link>
+					<comments>/2014/contact-form-failure-responses-to-questions-matchmaking/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Wed, 02 Jul 2014 15:07:22 +0000</pubDate>
+				<category><![CDATA[Matchmaking]]></category>
+		<category><![CDATA[Questions and Answers]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=395</guid>
+
+					<description><![CDATA[Thank you everyone who sent in feedback now that the contact form is fixed, we really appreciate it! Unfortunately I discovered yesterday that email addresses weren&#8217;t being sent through with the form so I have no way to actually respond to your questions. Thus i&#8217;ve decided to answer them here instead: Dieter Schulte &#8211; Hey I <a href="/2014/contact-form-failure-responses-to-questions-matchmaking/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Thank you everyone who sent in feedback now that the contact form is fixed, we really appreciate it! Unfortunately I discovered yesterday that email addresses weren&#8217;t being sent through with the form so I have no way to actually respond to your questions. Thus i&#8217;ve decided to answer them here instead:</p>
+<hr />
+<p><span style="color: #222222;"><strong>Dieter Schulte</strong> &#8211; </span><span style="color: #222222;">Hey I love this game, you guys have done a wonderful job! My friends and I were wondering if you were planning on adding a matchmaking system of some sort. even if it doesn&#8217;t have a rating system attached to it?</span></p>
+<p><em>Hell yes! We&#8217;ve been wanting matchmaking for so long ourselves and you&#8217;ll be happy to know we&#8217;re just putting the finishing touches on the matchmaking system right now. It has a rating system and you can also find matches as a team of 2 or 3 too so you can play with your friends against others all over the world. It will also feature a ladder of the best Tower Storm players so we can see who the best player in the world really is. </em></p>
+<hr />
+<p><strong>David &#8211; </strong><span style="color: #222222;"> I love this game but am sad to see there is no matchmaking at all. Would love to see this as a feature if it&#8217;s still being updated.</span></p>
+<p><em>Ok ok, we&#8217;ll stop making you sad. Matchmaking will be available next patch! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </em></p>
+<hr />
+<p><strong><span style="color: #222222;">Alexia</span></strong> &#8211; <span style="color: #222222;">I found your game, played the tutorial and accidentally managed to bug it to get stuck. Basically I upgraded my first crossbow tower a few times, so by the time the tutorial told me to build a second tower the first one managed to kill it before I built the second. Now it just keeps telling me to build another crossbow even though I have! Hope you can fix it.</span></p>
+<p><em>Thanks for letting us know Alexia. We&#8217;ll get this fixed in the next release. </em></p>
+<hr />
+<p><span style="text-decoration: underline;"><strong><span style="color: #222222;">Chris Collins</span></strong><span style="color: #222222;"> </span></span>&#8211; <span style="color: #222222;">FREE all-in-one Home Security System</span></p>
+<p><i>Oh Chris, little do you know how useless a home security system is when droids and ice elementals have rocked up at your door. </i></p>
+<hr />
+<p>The bug with emails not coming through has been fixed too, so if you send anything through the contact form in the future I&#8217;ll be able to email you back <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/contact-form-failure-responses-to-questions-matchmaking/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Contact form working again</title>
+		<link>/2014/contact-form-working-again/</link>
+					<comments>/2014/contact-form-working-again/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Sun, 29 Jun 2014 16:19:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=393</guid>
+
+					<description><![CDATA[The Tower Storm contact us form is now working again. Unfortunately it broke when we moved web hosts a while ago and I didn&#8217;t notice until recently. If you&#8217;ve tried to send us feedback and received an error please send it again, we love all feedback good or bad.]]></description>
+										<content:encoded><![CDATA[<p>The Tower Storm<a title="Contact" href="http://www.towerstorm.com/contact/"> contact us </a>form is now working again. Unfortunately it broke when we moved web hosts a while ago and I didn&#8217;t notice until recently. If you&#8217;ve tried to send us feedback and received an error please send it again, we love all feedback good or bad.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/contact-form-working-again/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fire elemental</title>
+		<link>/2014/fire-elemental/</link>
+					<comments>/2014/fire-elemental/#respond</comments>
+		
+		<dc:creator><![CDATA[jonathan]]></dc:creator>
+		<pubDate>Thu, 26 Jun 2014 10:34:38 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=389</guid>
+
+					<description><![CDATA[Hey guys, Most of my art time is dedicated to either creating assets or doing RnD for TS.  The rest of the time, I&#8217;m enjoying my travels, experiencing different cultures and meeting new people. I find travelling really helps me with my creativity but sometimes can be really distracting so time management is incredibly important. I have <a href="/2014/fire-elemental/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Hey guys,</p>
+<p>Most of my art time is dedicated to either creating assets or doing RnD for TS.  The rest of the time, I&#8217;m enjoying my travels, experiencing different cultures and meeting new people. I find travelling really helps me with my creativity but sometimes can be really distracting so time management is incredibly important. I have not done much personal work lately and I&#8217;ve kinda been missing that, so I decided to practice on some of the areas that I feel needs improving whilst using TS as the subject matter. This way its killing tow birds with one stone. We have more art for TS and I&#8217;m being creatively satisfied.</p>
+<p>Here is a progress shot of the fire elemental and the steps I go through from scratch to finish.</p>
+<p>1. I start with a very rough idea of what I want. The main goal here is to pose the character and define the silouhette.</p>
+<p>2. I then work on the outlines. For me this step is the longest and I think that&#8217;s because I tend to be a perfectionist at times when I shouldn&#8217;t. This step is also important to help me create sections for colour filling.</p>
+<p>3. Final step is rendering. This type of rendering is very quick, its more working with gradients as opposed to hand painting. At the time I was influenced by a fusion of comic pop art.</p>
+<p><a href="/wp-content/uploads/2014/06/fire_eleental_progress_shot.png"><img decoding="async" class="alignnone size-full wp-image-390" src="/wp-content/uploads/2014/06/fire_eleental_progress_shot.png" alt="fire_eleental_progress_shot" width="1860" height="901" srcset="/wp-content/uploads/2014/06/fire_eleental_progress_shot.png 1860w, /wp-content/uploads/2014/06/fire_eleental_progress_shot-300x145.png 300w, /wp-content/uploads/2014/06/fire_eleental_progress_shot-768x372.png 768w, /wp-content/uploads/2014/06/fire_eleental_progress_shot-1024x496.png 1024w" sizes="(max-width: 1860px) 100vw, 1860px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/fire-elemental/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Souls reworked to make the gameplay more interesting. Desyncs eliminated.</title>
+		<link>/2014/souls-reworked-to-make-the-gameplay-more-interesting-desyncs-eliminated/</link>
+					<comments>/2014/souls-reworked-to-make-the-gameplay-more-interesting-desyncs-eliminated/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2014 04:53:33 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[Performance]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=369</guid>
+
+					<description><![CDATA[Souls reworked Since the last release we&#8217;ve been trying to improve a few weak areas in the gameplay and lore of Tower Storm. The 3 core things we wanted to improve are: Having only 5 of each minion type available meant even if you found a weak spot in your opponents defenses, such as a <a href="/2014/souls-reworked-to-make-the-gameplay-more-interesting-desyncs-eliminated/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<h3>Souls reworked</h3>
+<p>Since the last release we&#8217;ve been trying to improve a few weak areas in the gameplay and lore of Tower Storm. The 3 core things we wanted to improve are:</p>
+<ul>
+<li>Having only 5 of each minion type available meant even if you found a weak spot in your opponents defenses, such as a lack of anti air or mostly magical damage turrets, you couldn&#8217;t exploit that weakness very well.</li>
+<li>Why are minions colliding with towers and vanishing? Where did their souls go? If these castles are supposed to be captured why are we killing them?</li>
+<li>The soul eater tower (shadow ultimate) kills every unit instantly. So it was far too weak early game and far too powerful late game and even when we tried to balance it it didn&#8217;t feel quite right.</li>
+</ul>
+<p>We&#8217;ve dealt with these 3 issues by making souls a more core part of the gameplay. </p>
+<p>We&#8217;ve eliminated the maximum of 5 of each minion and instead you now have a maximum of 20 souls available to spend as you like. So now when you notice your opponent has little anti air you can send 20 wraiths to destroy his castles in the blink of an eye. Souls restock every 3 seconds and clicking on souls also restocks your supply (up to a maxium of 20). Level 1 minions require 1 soul to send, level 2 minions require 2 souls and so on. This means you can send less minions overall late game but they will be much more powerful. </p>
+<p>The lore of the game world (which we&#8217;ll be posting on this blog soon) is that the races have come to this world to capture ancient runes that give them power. These ancient runes are the castles you see on the map. So it doesn&#8217;t make much sense that the minions are killing the castles.  </p>
+<p>Rather than minions having damage and aiming to destroy castles they now capture them by sacrificing their souls. Each of the 2 smaller castles requires 10 souls to capture and the larger one requires 20. Because higher level minions have more souls they capture the castles faster. So a small castle requires 10 level 1 minions to capture, or only 5 level 2&#8217;s (10 souls total) or 4 level 3&#8217;s (12 souls total). </p>
+<p>Lastly we&#8217;ve balanced the soul eater by making it deal X souls in damage. At level 1 it consumes 1 soul, at level 2 it consumes 2 souls etc. So if you have a level 1 soul eater and your opponent sends a level 2 minion it will suck 50% of it&#8217;s life away. If your opponent sends a level 3 minion it will suck 33% of its life away etc. The amount of damage it deals depends on it&#8217;s level and the minions level. </p>
+<h3>Performance improvements</h3>
+<p>I&#8217;ve been spending a lot of time simulating lag and ensuring tower storm is smooth and playable even on some of the worst internet in the world. Desyncs (where the game refreshes half way through a match) should be completely eliminated now. If you notice any further desyncs please let us know. Also the game should be a lot less jittery on bad connections due to some improvements in the network code. </p>
+<h3>Balance changes</h3>
+<p>The Architects damage tower was far too overpowered when placed along side towers that attack fast such as the road spikes, flamethrower or laser turret. We&#8217;ve reworked this tower to now give a DPS (damage per second) boost instead of a flat damage boost. So it is far stronger alongside slower towers and less powerful alongside faster towers. </p>
+<p>The featured image today is a z-brush render of the ice elemental, pre-texturing and animation. </p>
+<p>Enjoy and let us know what you think!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/souls-reworked-to-make-the-gameplay-more-interesting-desyncs-eliminated/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Meet the Wraith &#8211; Shadow</title>
+		<link>/2014/meet-the-wraith-shadow/</link>
+					<comments>/2014/meet-the-wraith-shadow/#respond</comments>
+		
+		<dc:creator><![CDATA[jonathan]]></dc:creator>
+		<pubDate>Thu, 29 May 2014 14:27:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=361</guid>
+
+					<description><![CDATA[Here is a wip of the Wraith. Just keeping the shapes simple and the silhouette easy to read.]]></description>
+										<content:encoded><![CDATA[<p>Here is a wip of the Wraith. Just keeping the shapes simple and the silhouette easy to read.</p>
+<p><a href="/wp-content/uploads/2014/05/wraith.png"><img decoding="async" class="alignnone size-full wp-image-362" src="/wp-content/uploads/2014/05/wraith.png" alt="wraith" width="1654" height="1570" srcset="/wp-content/uploads/2014/05/wraith.png 1654w, /wp-content/uploads/2014/05/wraith-300x285.png 300w, /wp-content/uploads/2014/05/wraith-768x729.png 768w, /wp-content/uploads/2014/05/wraith-1024x972.png 1024w" sizes="(max-width: 1654px) 100vw, 1654px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/meet-the-wraith-shadow/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

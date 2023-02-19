@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Media &#8211; Tower Storm</title>
+	<atom:link href="/category/media/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Tue, 26 Feb 2013 07:31:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>We&#8217;re in Mozilla GameOn!</title>
+		<link>/2013/were-in-mozilla-gameon/</link>
+					<comments>/2013/were-in-mozilla-gameon/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Tue, 26 Feb 2013 07:31:13 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Media]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=150</guid>
+
+					<description><![CDATA[You can see our entry here: https://gameon.mozilla.org/en-US/entries/tower-storm/ It&#8217;s exciting times in the world of Browser based multiplayer gaming. It&#8217;s so awesome seeing big companies like Mozilla and Google get behind indie developers with competitions, prizes and publicity. Best of luck to everyone who&#8217;s entering and I can&#8217;t wait to play all the games! If you know <a href="/2013/were-in-mozilla-gameon/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>You can see our entry here: <a href="https://gameon.mozilla.org/en-US/entries/tower-storm/">https://gameon.mozilla.org/en-US/entries/tower-storm/</a></p>
+<p>It&#8217;s exciting times in the world of Browser based multiplayer gaming. It&#8217;s so awesome seeing big companies like Mozilla and Google get behind indie developers with competitions, prizes and publicity. Best of luck to everyone who&#8217;s entering and I can&#8217;t wait to play all the games!</p>
+<p>If you know of any other competitions open to early stage / prototype web games I&#8217;d love to hear about them, please send us an email via the <a title="Contact" href="http://www.towerstorm.com/contact/">contact form.</a></p>
+<p>Also because this competition doesn&#8217;t allow game updates during it we won&#8217;t be updating Tower Storm for the next week or so. Don&#8217;t worry I&#8217;ll still be adding new features, just they won&#8217;t be pushed live until after the competition.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/were-in-mozilla-gameon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

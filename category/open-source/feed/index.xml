@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Open Source &#8211; Tower Storm</title>
+	<atom:link href="/category/open-source/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Tue, 30 May 2017 02:13:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Tower Storm is now Open Source</title>
+		<link>/2017/tower-storm-is-now-open-source/</link>
+					<comments>/2017/tower-storm-is-now-open-source/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Mon, 29 May 2017 21:59:47 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Modding]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<guid isPermaLink="false">/?p=451</guid>
+
+					<description><![CDATA[Wow it&#8217;s been a while. Over 2 years since the last blog post! In that time I&#8217;ve moved between 4 cities on 3 different continents, from Brisbane to Amsterdam to New York to Seattle. Basically Tower Storm wasn&#8217;t working out for me financially and so I had to put my game development dreams on hold <a href="/2017/tower-storm-is-now-open-source/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Wow it&#8217;s been a while. Over 2 years since the last blog post! In that time I&#8217;ve moved between 4 cities on 3 different continents, from Brisbane to Amsterdam to New York to Seattle. Basically Tower Storm wasn&#8217;t working out for me financially and so I had to put my game development dreams on hold for a while. It turned out well though, I started working at <a href="http://c9.io/">Cloud9</a> where I&#8217;ve been working on an online IDE in Javascript and NodeJS (which you should totally use because it&#8217;s awesome). This has been a ton of fun and I&#8217;ve learnt a LOT. We then got acquired by Amazon in July last year which is why I ended up living in Seattle.</p>
+<p>I didn&#8217;t actually stop working on Tower Storm though. I didn&#8217;t update the blog because I didn&#8217;t release any new features but I was pushing out bug fixes and patches to keep the servers stable and improve the gameplay. Some of these features included being able to easily pan and zoom with your mouse and improving the general UI.</p>
+<p>Last year I realized I was probably never going to have the time to build Tower Storm into the massive TD game I always wanted to be. My original vision for Tower Storm was a Multiplayer TD game with as much depth as DOTA or League of Legends. Imagine a TD game where you can have up to 16 players on a huge map with hundreds of towers, minions and abilities! How awesome would that be! But there&#8217;s no way I&#8217;d have time to create all of this with my tiny team of friends, and there was very little chance someone was going to invest millions of dollars into making this happen (though if you&#8217;re out there, please let me know! ;))</p>
+<p>Which brings me to today&#8217;s announcement: <a href="http://github.com/towerstorm/game">Tower Storm is now Open Source</a>!</p>
+<p>With Tower Storm open sourced anyone in the world can grab a copy of the code and build their own maps, towers, minions, or even completely new game modes. Maybe someone will build a Story mode, or crazy new survival levels, or tribute maps to some of the best maps in Warcraft 3 (Azure TD, Skibis Castle, Burbenog, would all be awesome!). And if your creations are great I could add them to the main game so everyone can enjoy them.</p>
+<p>I&#8217;ve spent the last few months cleaning up the code base to make it super easy to run and make your own modifications. You don&#8217;t even need to be a programmer to make your own towers, minions or maps, you can just edit the simple text config file and refresh the page and your new creation will be in the game.</p>
+<p>Soon I&#8217;ll release some tutorials showing you how to work with the code and create your own mods. As well as setup forums so everyone can share their creations with each other.</p>
+<p>For now <a href="http://github.com/towerstorm/game">check out the game on Github</a> and let me know what cool creations you come up with!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/tower-storm-is-now-open-source/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Tutorial available, crash bugs fixed and gameplay balanced	</title>
+	<atom:link href="/2014/tutorial-available-crash-bugs-fixed-and-gameplay-balanced/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/tutorial-available-crash-bugs-fixed-and-gameplay-balanced/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Thu, 15 May 2014 10:18:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: !!!!!!		</title>
+		<link>/2014/tutorial-available-crash-bugs-fixed-and-gameplay-balanced/#comment-44</link>
+
+		<dc:creator><![CDATA[!!!!!!]]></dc:creator>
+		<pubDate>Thu, 15 May 2014 10:18:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=334#comment-44</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2014/tutorial-available-crash-bugs-fixed-and-gameplay-balanced/#comment-42&quot;&gt;!!!!!!&lt;/a&gt;.
+
+Thanks now working. :)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2014/tutorial-available-crash-bugs-fixed-and-gameplay-balanced/#comment-42">!!!!!!</a>.</p>
+<p>Thanks now working. 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Solace		</title>
+		<link>/2014/tutorial-available-crash-bugs-fixed-and-gameplay-balanced/#comment-43</link>
+
+		<dc:creator><![CDATA[Solace]]></dc:creator>
+		<pubDate>Wed, 14 May 2014 13:43:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=334#comment-43</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2014/tutorial-available-crash-bugs-fixed-and-gameplay-balanced/#comment-42&quot;&gt;!!!!!!&lt;/a&gt;.
+
+Hey thanks for letting us know. Looks like all 3 game servers either crashed or ran out of memory in the last day. I&#039;ve fixed this now and am in the process of adding more monitors to detect when the game isn&#039;t working. 
+
+Thanks, Tim]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2014/tutorial-available-crash-bugs-fixed-and-gameplay-balanced/#comment-42">!!!!!!</a>.</p>
+<p>Hey thanks for letting us know. Looks like all 3 game servers either crashed or ran out of memory in the last day. I&#8217;ve fixed this now and am in the process of adding more monitors to detect when the game isn&#8217;t working. </p>
+<p>Thanks, Tim</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: !!!!!!		</title>
+		<link>/2014/tutorial-available-crash-bugs-fixed-and-gameplay-balanced/#comment-42</link>
+
+		<dc:creator><![CDATA[!!!!!!]]></dc:creator>
+		<pubDate>Tue, 13 May 2014 14:17:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=334#comment-42</guid>
+
+					<description><![CDATA[I can&#039;t play. I have Please wait... creating. I can&#039;t load: lb.0-4-264.towerstorm.com]]></description>
+			<content:encoded><![CDATA[<p>I can&#8217;t play. I have Please wait&#8230; creating. I can&#8217;t load: lb.0-4-264.towerstorm.com</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

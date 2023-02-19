@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Splash	</title>
+	<atom:link href="/2014/splash/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/splash/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Sat, 07 Jun 2014 07:03:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: towerstorm		</title>
+		<link>/2014/splash/#comment-48</link>
+
+		<dc:creator><![CDATA[towerstorm]]></dc:creator>
+		<pubDate>Sat, 07 Jun 2014 07:03:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=346#comment-48</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2014/splash/#comment-47&quot;&gt;!!!!!!&lt;/a&gt;.
+
+Oh I see what you mean, for some reason It&#039;s not appearing on Nathans posts. I&#039;ll look into it. Can you see the like button on the left hand side along with the tweet / g+ buttons?]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2014/splash/#comment-47">!!!!!!</a>.</p>
+<p>Oh I see what you mean, for some reason It&#8217;s not appearing on Nathans posts. I&#8217;ll look into it. Can you see the like button on the left hand side along with the tweet / g+ buttons?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: !!!!!!		</title>
+		<link>/2014/splash/#comment-47</link>
+
+		<dc:creator><![CDATA[!!!!!!]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2014 13:10:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=346#comment-47</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2014/splash/#comment-46&quot;&gt;towerstorm&lt;/a&gt;.
+
+I don&#039;t have button Like]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2014/splash/#comment-46">towerstorm</a>.</p>
+<p>I don&#8217;t have button Like</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: towerstorm		</title>
+		<link>/2014/splash/#comment-46</link>
+
+		<dc:creator><![CDATA[towerstorm]]></dc:creator>
+		<pubDate>Sat, 31 May 2014 10:34:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=346#comment-46</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2014/splash/#comment-45&quot;&gt;!!!!!!&lt;/a&gt;.
+
+Do you mean you don&#039;t like it? Or that you can&#039;t click the like button?]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2014/splash/#comment-45">!!!!!!</a>.</p>
+<p>Do you mean you don&#8217;t like it? Or that you can&#8217;t click the like button?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: !!!!!!		</title>
+		<link>/2014/splash/#comment-45</link>
+
+		<dc:creator><![CDATA[!!!!!!]]></dc:creator>
+		<pubDate>Fri, 23 May 2014 06:57:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=346#comment-45</guid>
+
+					<description><![CDATA[I can&#039;t like this!!!!!!!]]></description>
+			<content:encoded><![CDATA[<p>I can&#8217;t like this!!!!!!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

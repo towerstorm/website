@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Tower Storm</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Sun, 21 Sep 2014 07:48:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>2D rendered blacksmith</title>
+		<link>/2014/2d-rendered-blacksmith/</link>
+					<comments>/2014/2d-rendered-blacksmith/#respond</comments>
+		
+		<dc:creator><![CDATA[jonathan]]></dc:creator>
+		<pubDate>Sun, 21 Sep 2014 07:48:29 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=412</guid>
+
+					<description><![CDATA[A little 2D render of the blacksmith. Would love to explore more designs for this character, maybe in the future 😉 &#160; &#160; &#160;]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2014/09/blacksmith-progress-shot.png"><img decoding="async" class="alignnone size-full wp-image-413" src="/wp-content/uploads/2014/09/blacksmith-progress-shot.png" alt="blacksmith progress shot" width="6000" height="3207" srcset="/wp-content/uploads/2014/09/blacksmith-progress-shot.png 6000w, /wp-content/uploads/2014/09/blacksmith-progress-shot-300x160.png 300w, /wp-content/uploads/2014/09/blacksmith-progress-shot-768x410.png 768w, /wp-content/uploads/2014/09/blacksmith-progress-shot-1024x547.png 1024w" sizes="(max-width: 6000px) 100vw, 6000px" /></a>A little 2D render of the blacksmith. Would love to explore more designs for this character, maybe in the future <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/2d-rendered-blacksmith/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The bruiser</title>
+		<link>/2014/the-bruiser/</link>
+					<comments>/2014/the-bruiser/#respond</comments>
+		
+		<dc:creator><![CDATA[jonathan]]></dc:creator>
+		<pubDate>Sat, 23 Aug 2014 08:10:47 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=406</guid>
+
+					<description><![CDATA[So I&#8217;ve been working on the Tower Storm maps a lot lately, it&#8217;s been really fun developing my skill set in this area but I really needed something fresh so I thought I&#8217;d concept some minions for a new race. I call this guy the bruiser, he is extremely strong but slow and when he <a href="/2014/the-bruiser/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>So I&#8217;ve been working on the Tower Storm maps a lot lately, it&#8217;s been really fun developing my skill set in this area but I really needed something fresh so I thought I&#8217;d concept some minions for a new race. I call this guy the bruiser, he is extremely strong but slow and when he is sent out all fellow allies receive improved armour and strength.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/the-bruiser/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>First look at the Crusaders homeworld</title>
+		<link>/2014/first-look-at-the-crusaders-homeworld/</link>
+					<comments>/2014/first-look-at-the-crusaders-homeworld/#respond</comments>
+		
+		<dc:creator><![CDATA[jonathan]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2014 18:50:43 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=402</guid>
+
+					<description><![CDATA[&#160; Hello there, I&#8217;m excited to bring you this update. I&#8217;ve been working on the environments and maps. Creating a style for the game as well as trying to develop an efficient pipeline for the development of map creation. I worked on a number of ideas before concluding to the what we have now. The <a href="/2014/first-look-at-the-crusaders-homeworld/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>Hello there, I&#8217;m excited to bring you this update. I&#8217;ve been working on the environments and maps. Creating a style for the game as well as trying to develop an efficient pipeline for the development of map creation.</p>
+<p>I worked on a number of ideas before concluding to the what we have now. The idea behind this is that each race has a home world stylised and themed according to the race. I started developing this idea for the crusaders first, looking at way I can create the illusion of depth by suggesting layers and a higher vs lower ground.</p>
+<p>The grass/ground was the first asset that needed to be completed so that I could layer other elements over the top. I created this in photoshop experimenting with different blending layers.</p>
+<p>After I was happy with the grass I started on the path. I created tile sets for the the paths, this allows us to quickly generate new roads without having to paint or model new assets. This was also created in photoshop using layer effects. Also something worth noting, I used photoshops standard maple leaf brush with scattering set to 0 to create the cut out edges of the grass.</p>
+<p>The environment assets where all modelled in zbrush. Zbrush allows me to quickly concept ideas and bring a nice level of detail to the assets. When I am happy the design I take it into 3Dsmax for rendering. As I am not using these models for real time I&#8217;m not too worried about the polycount. After rendering the assets in 3Ds max I bring them into photoshop for further touches and tweaks.</p>
+<p>I am looking forward to getting the map in as soon as possible so we can start testing and getting a feel for the new map. Happy Days!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="/wp-content/uploads/2014/07/crusader-home-test.png"><img decoding="async" class="alignnone size-full wp-image-403" src="/wp-content/uploads/2014/07/crusader-home-test.png" alt="crusader home test" width="960" height="1200" srcset="/wp-content/uploads/2014/07/crusader-home-test.png 960w, /wp-content/uploads/2014/07/crusader-home-test-240x300.png 240w, /wp-content/uploads/2014/07/crusader-home-test-768x960.png 768w, /wp-content/uploads/2014/07/crusader-home-test-819x1024.png 819w" sizes="(max-width: 960px) 100vw, 960px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/first-look-at-the-crusaders-homeworld/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Contact form working again</title>
+		<link>/2014/contact-form-working-again/</link>
+					<comments>/2014/contact-form-working-again/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Sun, 29 Jun 2014 16:19:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=393</guid>
+
+					<description><![CDATA[The Tower Storm contact us form is now working again. Unfortunately it broke when we moved web hosts a while ago and I didn&#8217;t notice until recently. If you&#8217;ve tried to send us feedback and received an error please send it again, we love all feedback good or bad.]]></description>
+										<content:encoded><![CDATA[<p>The Tower Storm<a title="Contact" href="http://www.towerstorm.com/contact/"> contact us </a>form is now working again. Unfortunately it broke when we moved web hosts a while ago and I didn&#8217;t notice until recently. If you&#8217;ve tried to send us feedback and received an error please send it again, we love all feedback good or bad.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/contact-form-working-again/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fire elemental</title>
+		<link>/2014/fire-elemental/</link>
+					<comments>/2014/fire-elemental/#respond</comments>
+		
+		<dc:creator><![CDATA[jonathan]]></dc:creator>
+		<pubDate>Thu, 26 Jun 2014 10:34:38 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=389</guid>
+
+					<description><![CDATA[Hey guys, Most of my art time is dedicated to either creating assets or doing RnD for TS.  The rest of the time, I&#8217;m enjoying my travels, experiencing different cultures and meeting new people. I find travelling really helps me with my creativity but sometimes can be really distracting so time management is incredibly important. I have <a href="/2014/fire-elemental/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Hey guys,</p>
+<p>Most of my art time is dedicated to either creating assets or doing RnD for TS.  The rest of the time, I&#8217;m enjoying my travels, experiencing different cultures and meeting new people. I find travelling really helps me with my creativity but sometimes can be really distracting so time management is incredibly important. I have not done much personal work lately and I&#8217;ve kinda been missing that, so I decided to practice on some of the areas that I feel needs improving whilst using TS as the subject matter. This way its killing tow birds with one stone. We have more art for TS and I&#8217;m being creatively satisfied.</p>
+<p>Here is a progress shot of the fire elemental and the steps I go through from scratch to finish.</p>
+<p>1. I start with a very rough idea of what I want. The main goal here is to pose the character and define the silouhette.</p>
+<p>2. I then work on the outlines. For me this step is the longest and I think that&#8217;s because I tend to be a perfectionist at times when I shouldn&#8217;t. This step is also important to help me create sections for colour filling.</p>
+<p>3. Final step is rendering. This type of rendering is very quick, its more working with gradients as opposed to hand painting. At the time I was influenced by a fusion of comic pop art.</p>
+<p><a href="/wp-content/uploads/2014/06/fire_eleental_progress_shot.png"><img decoding="async" class="alignnone size-full wp-image-390" src="/wp-content/uploads/2014/06/fire_eleental_progress_shot.png" alt="fire_eleental_progress_shot" width="1860" height="901" srcset="/wp-content/uploads/2014/06/fire_eleental_progress_shot.png 1860w, /wp-content/uploads/2014/06/fire_eleental_progress_shot-300x145.png 300w, /wp-content/uploads/2014/06/fire_eleental_progress_shot-768x372.png 768w, /wp-content/uploads/2014/06/fire_eleental_progress_shot-1024x496.png 1024w" sizes="(max-width: 1860px) 100vw, 1860px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/fire-elemental/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Meet the Wraith &#8211; Shadow</title>
+		<link>/2014/meet-the-wraith-shadow/</link>
+					<comments>/2014/meet-the-wraith-shadow/#respond</comments>
+		
+		<dc:creator><![CDATA[jonathan]]></dc:creator>
+		<pubDate>Thu, 29 May 2014 14:27:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=361</guid>
+
+					<description><![CDATA[Here is a wip of the Wraith. Just keeping the shapes simple and the silhouette easy to read.]]></description>
+										<content:encoded><![CDATA[<p>Here is a wip of the Wraith. Just keeping the shapes simple and the silhouette easy to read.</p>
+<p><a href="/wp-content/uploads/2014/05/wraith.png"><img decoding="async" class="alignnone size-full wp-image-362" src="/wp-content/uploads/2014/05/wraith.png" alt="wraith" width="1654" height="1570" srcset="/wp-content/uploads/2014/05/wraith.png 1654w, /wp-content/uploads/2014/05/wraith-300x285.png 300w, /wp-content/uploads/2014/05/wraith-768x729.png 768w, /wp-content/uploads/2014/05/wraith-1024x972.png 1024w" sizes="(max-width: 1654px) 100vw, 1654px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/meet-the-wraith-shadow/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Meet the Land Drone &#8211; Droids</title>
+		<link>/2014/meet-the-land-drone-droids/</link>
+					<comments>/2014/meet-the-land-drone-droids/#respond</comments>
+		
+		<dc:creator><![CDATA[jonathan]]></dc:creator>
+		<pubDate>Tue, 27 May 2014 14:22:32 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=358</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div id="attachment_359" style="width: 1532px" class="wp-caption alignnone"><a href="/wp-content/uploads/2014/05/land-drone.png"><img aria-describedby="caption-attachment-359" decoding="async" class="wp-image-359 size-full" src="/wp-content/uploads/2014/05/land-drone.png" alt="land-drone" width="1522" height="1436" srcset="/wp-content/uploads/2014/05/land-drone.png 1522w, /wp-content/uploads/2014/05/land-drone-300x283.png 300w, /wp-content/uploads/2014/05/land-drone-768x725.png 768w, /wp-content/uploads/2014/05/land-drone-1024x966.png 1024w" sizes="(max-width: 1522px) 100vw, 1522px" /></a><p id="caption-attachment-359" class="wp-caption-text">I&#8217;ve always been a fan of mechanical designs so the droids are naturally my favourite <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/meet-the-land-drone-droids/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Meet the Blacksmith &#8211; Crusaders</title>
+		<link>/2014/crusaders/</link>
+					<comments>/2014/crusaders/#respond</comments>
+		
+		<dc:creator><![CDATA[jonathan]]></dc:creator>
+		<pubDate>Sat, 24 May 2014 14:17:11 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=353</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div id="attachment_354" style="width: 1510px" class="wp-caption alignnone"><a href="/wp-content/uploads/2014/05/blacksmith.png"><img aria-describedby="caption-attachment-354" decoding="async" class="wp-image-354 size-full" src="/wp-content/uploads/2014/05/blacksmith.png" alt="blacksmith" width="1500" height="1414" srcset="/wp-content/uploads/2014/05/blacksmith.png 1500w, /wp-content/uploads/2014/05/blacksmith-300x283.png 300w, /wp-content/uploads/2014/05/blacksmith-768x724.png 768w, /wp-content/uploads/2014/05/blacksmith-1024x965.png 1024w" sizes="(max-width: 1500px) 100vw, 1500px" /></a><p id="caption-attachment-354" class="wp-caption-text">Here is a little WIP shot of the black smith!</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/crusaders/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Splash</title>
+		<link>/2014/splash/</link>
+					<comments>/2014/splash/#comments</comments>
+		
+		<dc:creator><![CDATA[jonathan]]></dc:creator>
+		<pubDate>Thu, 22 May 2014 14:01:47 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=346</guid>
+
+					<description><![CDATA[Just some lines. Splash screen coming soon 🙂]]></description>
+										<content:encoded><![CDATA[<p>Just some lines. Splash screen coming soon <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><a href="/wp-content/uploads/2014/05/splash2.png"><img decoding="async" class="alignnone size-full wp-image-350" src="/wp-content/uploads/2014/05/splash2.png" alt="splash2" width="1500" height="1000" srcset="/wp-content/uploads/2014/05/splash2.png 1500w, /wp-content/uploads/2014/05/splash2-300x200.png 300w, /wp-content/uploads/2014/05/splash2-768x512.png 768w, /wp-content/uploads/2014/05/splash2-1024x683.png 1024w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/splash/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Updates to the UI!</title>
+		<link>/2014/updates-to-the-ui/</link>
+					<comments>/2014/updates-to-the-ui/#respond</comments>
+		
+		<dc:creator><![CDATA[jonathan]]></dc:creator>
+		<pubDate>Tue, 20 May 2014 13:41:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=339</guid>
+
+					<description><![CDATA[Hey peeps, I&#8217;ve been working on a re-design of the UI. Trying to tie in the themes as well as create a layout that is intuitive to use. I wanted to give players more information about the minions whilst still maintaining an easy to use design. Tim and I will be working closely together to <a href="/2014/updates-to-the-ui/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Hey peeps,</p>
+<p>I&#8217;ve been working on a re-design of the UI. Trying to tie in the themes as well as create a layout that is intuitive to use. I wanted to give players more information about the minions whilst still maintaining an easy to use design.</p>
+<p>Tim and I will be working closely together to bring out a fresh new UI design so stay tuned for some sexy new buttons!<a href="/wp-content/uploads/2014/05/find-game.png"><img decoding="async" class="alignnone size-full wp-image-341" src="/wp-content/uploads/2014/05/find-game.png" alt="find game" width="2400" height="2000" srcset="/wp-content/uploads/2014/05/find-game.png 2400w, /wp-content/uploads/2014/05/find-game-300x250.png 300w, /wp-content/uploads/2014/05/find-game-768x640.png 768w, /wp-content/uploads/2014/05/find-game-1024x853.png 1024w" sizes="(max-width: 2400px) 100vw, 2400px" /></a></p>
+<p><a href="/wp-content/uploads/2014/05/Screen-Shot-2014-05-15-at-12.28.11-pm.png"><img decoding="async" class="alignnone size-full wp-image-340" src="/wp-content/uploads/2014/05/Screen-Shot-2014-05-15-at-12.28.11-pm.png" alt="Screen Shot 2014-05-15 at 12.28.11 pm" width="1432" height="1084" srcset="/wp-content/uploads/2014/05/Screen-Shot-2014-05-15-at-12.28.11-pm.png 1432w, /wp-content/uploads/2014/05/Screen-Shot-2014-05-15-at-12.28.11-pm-300x227.png 300w, /wp-content/uploads/2014/05/Screen-Shot-2014-05-15-at-12.28.11-pm-768x581.png 768w, /wp-content/uploads/2014/05/Screen-Shot-2014-05-15-at-12.28.11-pm-1024x775.png 1024w" sizes="(max-width: 1432px) 100vw, 1432px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/updates-to-the-ui/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

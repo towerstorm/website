@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: New maps, gameplay, features and chat &#8211; the next evolution of Tower Storm is finally here	</title>
+	<atom:link href="/2014/new-maps-gameplay-features-and-chat-the-next-evolution-of-tower-storm-is-finally-here/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/new-maps-gameplay-features-and-chat-the-next-evolution-of-tower-storm-is-finally-here/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Thu, 16 Jul 2015 00:07:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Alessandro Rossetti		</title>
+		<link>/2014/new-maps-gameplay-features-and-chat-the-next-evolution-of-tower-storm-is-finally-here/#comment-49</link>
+
+		<dc:creator><![CDATA[Alessandro Rossetti]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2015 00:07:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=416#comment-49</guid>
+
+					<description><![CDATA[Hi, i find your name really nice but creating a lobby it&#039;s often problematic!
+There are other bugs, after a 25 minutes game, the game freezed giving the error bad subscription key analyzing it.
+Is it an opensource project? What did you used to make it?]]></description>
+			<content:encoded><![CDATA[<p>Hi, i find your name really nice but creating a lobby it&#8217;s often problematic!<br />
+There are other bugs, after a 25 minutes game, the game freezed giving the error bad subscription key analyzing it.<br />
+Is it an opensource project? What did you used to make it?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

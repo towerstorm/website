@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Survival Tower Defense &#8211; Tower Storm</title>
+	<atom:link href="/tag/survival-tower-defense/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Mon, 20 May 2013 12:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Survival mode: Unlocked</title>
+		<link>/2013/survival-mode-unlocked/</link>
+					<comments>/2013/survival-mode-unlocked/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Mon, 20 May 2013 12:45:40 +0000</pubDate>
+				<category><![CDATA[Screenshots]]></category>
+		<category><![CDATA[Survival Mode]]></category>
+		<category><![CDATA[Burbenog]]></category>
+		<category><![CDATA[Multiplayer Tower Defense]]></category>
+		<category><![CDATA[Survival Tower Defense]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=197</guid>
+
+					<description><![CDATA[You asked for it so we made it, Tower Storm now has a survival mode! This mode is like traditional tower defense where you work with friends to defeat waves and waves of incoming minions and see how long you can last. The map design is based off an old favourite Warcraft 3 map: Burbenog! <a href="/2013/survival-mode-unlocked/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>You asked for it so we made it, Tower Storm now has a survival mode! This mode is like traditional tower defense where you work with friends to defeat waves and waves of incoming minions and see how long you can last. The map design is based off an old favourite Warcraft 3 map: Burbenog!</p>
+<p>If you play with friends you&#8217;ll be able to coordinate different towers from different races to have a much stronger fortress but be warned: The enemies get stronger the more players you have on your side.</p>
+<p>The map was designed to have a few nice chokepoints, firstly there&#8217;s the 5 x 5 areas in the corners which are great for creating deadly combinations of speed and damage towers. Then there&#8217;s the 3 x 3 points which are perfect for slow and poison towers (and maybe a few gold boosters, everyone loves more gold :)).</p>
+<p>It&#8217;s also 4 way symmetrical on the outside and 2 way symmetrical in the middle so you&#8217;ll have to adjust your strategy accordingly, should you focus on just one corner or all of them equally? Who knows. Perhaps the high score lists (coming soon will reveal who&#8217;s really amazing at this map and who&#8217;s just a pretender).</p>
+<p>You can&#8217;t play with bots in survival mode, but you can play single player and <span style="line-height: 1.714285714; font-size: 1rem;">Income from kills is shared so don&#8217;t worry about picking the support race, you&#8217;ll get just as much income as your friends.</span></p>
+<p>Have a play and let me know what you think. I&#8217;m always interested in any feedback you have to share good or bad.</p>
+<p>Survival mode is now the new default mode. If you want to play PvP you still can, simply select PvP mode when you create a new game.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/survival-mode-unlocked/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

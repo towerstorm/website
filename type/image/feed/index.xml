@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Image &#8211; Tower Storm</title>
+	<atom:link href="/type/image/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Wed, 23 Jul 2014 18:50:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>First look at the Crusaders homeworld</title>
+		<link>/2014/first-look-at-the-crusaders-homeworld/</link>
+					<comments>/2014/first-look-at-the-crusaders-homeworld/#respond</comments>
+		
+		<dc:creator><![CDATA[jonathan]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2014 18:50:43 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=402</guid>
+
+					<description><![CDATA[&#160; Hello there, I&#8217;m excited to bring you this update. I&#8217;ve been working on the environments and maps. Creating a style for the game as well as trying to develop an efficient pipeline for the development of map creation. I worked on a number of ideas before concluding to the what we have now. The <a href="/2014/first-look-at-the-crusaders-homeworld/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>Hello there, I&#8217;m excited to bring you this update. I&#8217;ve been working on the environments and maps. Creating a style for the game as well as trying to develop an efficient pipeline for the development of map creation.</p>
+<p>I worked on a number of ideas before concluding to the what we have now. The idea behind this is that each race has a home world stylised and themed according to the race. I started developing this idea for the crusaders first, looking at way I can create the illusion of depth by suggesting layers and a higher vs lower ground.</p>
+<p>The grass/ground was the first asset that needed to be completed so that I could layer other elements over the top. I created this in photoshop experimenting with different blending layers.</p>
+<p>After I was happy with the grass I started on the path. I created tile sets for the the paths, this allows us to quickly generate new roads without having to paint or model new assets. This was also created in photoshop using layer effects. Also something worth noting, I used photoshops standard maple leaf brush with scattering set to 0 to create the cut out edges of the grass.</p>
+<p>The environment assets where all modelled in zbrush. Zbrush allows me to quickly concept ideas and bring a nice level of detail to the assets. When I am happy the design I take it into 3Dsmax for rendering. As I am not using these models for real time I&#8217;m not too worried about the polycount. After rendering the assets in 3Ds max I bring them into photoshop for further touches and tweaks.</p>
+<p>I am looking forward to getting the map in as soon as possible so we can start testing and getting a feel for the new map. Happy Days!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="/wp-content/uploads/2014/07/crusader-home-test.png"><img decoding="async" class="alignnone size-full wp-image-403" src="/wp-content/uploads/2014/07/crusader-home-test.png" alt="crusader home test" width="960" height="1200" srcset="/wp-content/uploads/2014/07/crusader-home-test.png 960w, /wp-content/uploads/2014/07/crusader-home-test-240x300.png 240w, /wp-content/uploads/2014/07/crusader-home-test-768x960.png 768w, /wp-content/uploads/2014/07/crusader-home-test-819x1024.png 819w" sizes="(max-width: 960px) 100vw, 960px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/first-look-at-the-crusaders-homeworld/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

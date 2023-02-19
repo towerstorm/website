@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PvP Mode &#8211; Tower Storm</title>
+	<atom:link href="/category/pvp-mode/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Mon, 04 Nov 2013 07:22:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Tutorial Online + Many gameplay improvements</title>
+		<link>/2013/tutorial-online-many-gameplay-improvements/</link>
+					<comments>/2013/tutorial-online-many-gameplay-improvements/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Mon, 04 Nov 2013 07:22:25 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[PvP Mode]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<category><![CDATA[Tutorial]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=282</guid>
+
+					<description><![CDATA[Over the past 2 weeks we&#8217;ve made a multitude of changes to Tower Storm. Fine tuning the game-play until it&#8217;s perfect and making it as easy to understand as possible. The first major change is you&#8217;ll now notice Tower Storm has a tutorial. We realized many new players were confused about attacking the enemy and <a href="/2013/tutorial-online-many-gameplay-improvements/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Over the past 2 weeks we&#8217;ve made a multitude of changes to Tower Storm. Fine tuning the game-play until it&#8217;s perfect and making it as easy to understand as possible.</p>
+<p>The first major change is you&#8217;ll now notice Tower Storm has a tutorial. We realized many new players were confused about attacking the enemy and what minion soulstones did so we added the tutorial to guide you step by step through the gameplay. Please let us know if you get stuck at any point during the tutorial or if anything doesn&#8217;t feel right and we&#8217;ll fix it up ASAP.</p>
+<p>The second major change is the Imp and Water spirit minions have been removed. We discovered most games didn&#8217;t even go long enough for players to use the last 2 minions so we removed the least needed minions and adjusted the costs and strengths of the remaining minions so there is a nice power curve without any minion being too overpowered or weak.</p>
+<p>The fog of war has also been re-added however it is now simply a shroud over the battlefield and you won&#8217;t see your opponents towers until you&#8217;ve scouted them out, though once you&#8217;ve scouted them you&#8217;ll see them forever. This makes it easier to see your opponents health and base layout while still allowing you to build a deadly fortress in secret.</p>
+<p>The menu theme has been adjusted to be consistent with the lobby and game.</p>
+<p>Finally higher level minions now deal more damage depending on what level they are, previously their damage was the same at every level.</p>
+<p>There have also been numerous bug fixes and mobile UI improvements. If you previously tried the game on mobile and found bugs try it again and they should all be fixed. If you&#8217;re still encountering any issues please send us an email or leave a comment on this post.</p>
+<p>Enjoy,</p>
+<p>Solace</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/tutorial-online-many-gameplay-improvements/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New game layout now live</title>
+		<link>/2013/new-game-layout-now-live/</link>
+					<comments>/2013/new-game-layout-now-live/#comments</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Fri, 18 Oct 2013 07:59:06 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[PvP Mode]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<category><![CDATA[UI]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=277</guid>
+
+					<description><![CDATA[Since the lobby overhaul is now complete I set about updating the game to match. I experimented with a few different layout styles including having the tower / minion buttons over the top of the battlefield and having the game go full screen even on HD monitors (which didn&#8217;t look so good unfortunately). Eventually I <a href="/2013/new-game-layout-now-live/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Since the lobby overhaul is now complete I set about updating the game to match. I experimented with a few different layout styles including having the tower / minion buttons over the top of the battlefield and having the game go full screen even on HD monitors (which didn&#8217;t look so good unfortunately). Eventually I settled on the look and feel you see in the screenshot above.</p>
+<p>Some of the big changes in this release are</p>
+<ul>
+<li>The game battlefield now scales to any resolution, so you can play it on small mobile or tablet screens and it should fit correctly. Unfortunately the sidebars don&#8217;t scale so minions may sometimes be off the screen on smaller screens, this will be fixed soon.</li>
+<li>Instead of having health levels in the top left corner each players health is now shown on their castles. There is now a final castle for each player that has 100 health and the aim is to kill all your opponents castles.</li>
+<li>Fog of war has been removed &#8211; This is temporary and I&#8217;m looking to implement a new fog of war system in the future where you can see the opponents battlefield through a dark haze but only see new towers when minions pass by them. I removed fog of war so you can easily see your opponents health at all times.</li>
+</ul>
+<p>Let me know what you think and please give it a try on any phones / tablets you have. If it doesn&#8217;t work on your phone / tablet or feels off for some reason leave a comment on this post or send me an email and I&#8217;ll take a look on a similar model device and get it all fixed up. I want Tower Storm to run perfectly on every device!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/new-game-layout-now-live/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Towers can now upgrade, minions can now level up</title>
+		<link>/2013/towers-can-now-upgrade-minions-can-now-level-up/</link>
+					<comments>/2013/towers-can-now-upgrade-minions-can-now-level-up/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Mon, 02 Sep 2013 21:06:32 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[PvP Mode]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=249</guid>
+
+					<description><![CDATA[Today Tower Storm gets a major new patch finally making it a real Tower Defense game 🙂 Upgrading has been added to Towers, so you don&#8217;t have to spam them everywhere to destroy the oncoming onslaught of giants any more. All towers can upgrade a maximum of 5 times. Overall it is slightly more cost efficient <a href="/2013/towers-can-now-upgrade-minions-can-now-level-up/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Today Tower Storm gets a major new patch finally making it a real Tower Defense game <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div id="attachment_253" style="width: 310px" class="wp-caption alignright"><a href="/wp-content/uploads/2013/09/2013-09-03-06_32_32-Tower-Storm.png"><img aria-describedby="caption-attachment-253" decoding="async" class="size-medium wp-image-253 " style="margin-left: 10px; " alt="Tower Upgrading" src="/wp-content/uploads/2013/09/2013-09-03-06_32_32-Tower-Storm-300x269.png" width="300" height="269" /></a><p id="caption-attachment-253" class="wp-caption-text">Tower Upgrading</p></div>
+<p>Upgrading has been added to Towers, so you don&#8217;t have to spam them everywhere to destroy the oncoming onslaught of giants any more. All towers can upgrade a maximum of 5 times. Overall it is slightly more cost efficient to upgrade towers than it is to build more but the downside of just upgrading is you only have one of that tower instead of having it in multiple positions on the map. This creates an interesting dynamic where you can build powerful towers in a tight cluster or spread them out for more even damage over the entire map, which is better? Who knows, you&#8217;ll have to try and see.</p>
+<p>You can also click on your opponents towers to see how much range they have.</p>
+<div id="attachment_252" style="width: 179px" class="wp-caption alignright"><a href="/wp-content/uploads/2013/09/leveling.png"><img aria-describedby="caption-attachment-252" decoding="async" class="size-full wp-image-252  " style="margin-left: 10px;" alt="Minion levels and experience bars" src="/wp-content/uploads/2013/09/leveling.png" width="169" height="245" /></a><p id="caption-attachment-252" class="wp-caption-text">Minion levels and experience bars</p></div>
+<p><span style="font-size: 1rem; line-height: 1.714285714;">You&#8217;ll also notice your minions are now a lot smaller than they used to be, this is because they&#8217;re now only puny level 0 minions. Minions now start off slightly weaker (and cheaper) than before but as you collect soul stones of that minion type they gain experience. Once you&#8217;ve collected 30 soul stones of that minion type it levels up gaining:</span></p>
+<ul>
+<li>6 x health</li>
+<li>5 x cost</li>
+<li>4.5 x income</li>
+</ul>
+<p>Although they&#8217;re don&#8217;t produce as much income as before they become much stronger than before. They also increase in size so you can see them crushing your opponents defenses that much easier.</p>
+<p>You&#8217;ll notice in the screenshot that there is now a purple bar below each minion, this is the experience bar and when it reaches the end the minion gains a star. The star signifies what level each minion is so you can see at a glance. Finally the grey box you can see over the ogre is the respawn timer for that minion so you can see exactly when more will become available.</p>
+<p>The reason I waited to release these 2 major changes together is if I added one and not the other the game would become unbalanced, and keeping the game balanced is one of my top priorities.</p>
+<p>I still need to add more information on Tower Upgrades so you can see what each upgrade does, but for now just keep in mind that upgrading is slightly stronger than building more towers and you can look at how fast the opponents minions are dying to see how powerful your towers are <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Enjoy and as always let me know what you think good or bad.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/towers-can-now-upgrade-minions-can-now-level-up/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>3 vs 3 all humans match</title>
+		<link>/2013/3-vs-3-all-humans-match/</link>
+					<comments>/2013/3-vs-3-all-humans-match/#comments</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Mon, 05 Aug 2013 12:39:32 +0000</pubDate>
+				<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[PvP Mode]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=236</guid>
+
+					<description><![CDATA[Fun game, filled the entire map with towers 🙂 Now to add upgrading and selling of towers&#8230;]]></description>
+										<content:encoded><![CDATA[<p>Fun game, filled the entire map with towers <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Now to add upgrading and selling of towers&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/3-vs-3-all-humans-match/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Castle checkpoints to give a sense of progress (and crush your opponents easier)</title>
+		<link>/2013/castle-checkpoints-to-give-a-sense-of-progress-and-crush-your-opponents-easier/</link>
+					<comments>/2013/castle-checkpoints-to-give-a-sense-of-progress-and-crush-your-opponents-easier/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Sun, 04 Aug 2013 12:36:03 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[PvP Mode]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=231</guid>
+
+					<description><![CDATA[I&#8217;ve been playing a lot of Tower Storm over the past week with many different fans to measure where the gameplay still needs improving and one thing I consistently noticed was players weren&#8217;t even dealing any damage till very late game. So the game would go on for 10 &#8211; 15 minutes with no health <a href="/2013/castle-checkpoints-to-give-a-sense-of-progress-and-crush-your-opponents-easier/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ve been playing a lot of Tower Storm over the past week with many different fans to measure where the gameplay still needs improving and one thing I consistently noticed was players weren&#8217;t even dealing any damage till very late game. So the game would go on for 10 &#8211; 15 minutes with no health being taken then in the next minute or two one team would be dead and the other struggling for life.</p>
+<p>I feel this made the early game more boring than it should be and so to counteract this I&#8217;ve added in castles. These function similar to towers in DOTA or League of Legends where you have to destroy them to progress and when you do destroy them you get a little bonus.</p>
+<p>Both of these castles have 50 points of life and when your minions collide with them they die and deal damage to the player + castle. After the castle is destroyed minions can progress further into the map. With every castle destruction your teams minions gain +10% speed and +10% health.</p>
+<p>So far it appears to make the early game much more fun than before. It also makes the tougher minions much more powerful early game as before you&#8217;d just rush to build up your income for the end game but now with the shorter travel distance it often works out better to deal damage early, get that first castle down and then push the advantage you get from destroying the castle to eventually win the game.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/castle-checkpoints-to-give-a-sense-of-progress-and-crush-your-opponents-easier/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>So much darkness</title>
+		<link>/2013/so-much-darkness/</link>
+					<comments>/2013/so-much-darkness/#comments</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Sun, 28 Jul 2013 01:42:26 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[PvP Mode]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=224</guid>
+
+					<description><![CDATA[Fog of war is now in PvP, so you can&#8217;t see your opponents defenses before you get to them. Still a bit James Bond esque but it works for now (I&#8217;ve tried making it look better unfortunately performance suffers too much for my liking) Currently it doesn&#8217;t make a big difference to the gameplay as <a href="/2013/so-much-darkness/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Fog of war is now in PvP, so you can&#8217;t see your opponents defenses before you get to them. Still a bit James Bond esque but it works for now (I&#8217;ve tried making it look better unfortunately performance suffers too much for my liking)</p>
+<p>Currently it doesn&#8217;t make a big difference to the gameplay as there isn&#8217;t much you can do to counter certain towers. However in the next few months we&#8217;re looking into adding more special abilities to minions and towers so that you can better counter your opponents strategy and fog of war is merely the beginning of this.</p>
+<p>For example there could be minions that are immune to slows or poisons. Or minions that when shot speed up for a second to run past enemy chokepoints. Or minions that gain stealth and you need special towers to see them.</p>
+<p>It&#8217;s all very exciting and I can&#8217;t wait to implement this to make Tower Storm even more strategic than it currently is <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/so-much-darkness/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PvP reworked &#8211; no more insane minion spamming</title>
+		<link>/2013/pvp-reworked-no-more-insane-minion-spamming/</link>
+					<comments>/2013/pvp-reworked-no-more-insane-minion-spamming/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Sat, 27 Jul 2013 01:40:51 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[PvP Mode]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=220</guid>
+
+					<description><![CDATA[Previously in PvP you could easily win a game by sending the same minion so fast the opponents towers couldn&#8217;t keep up. This caused problems where the best strategy was to &#8220;press all the buttons!&#8221;. Now you only have a stock of 5 of each minion type to send, this stock refreshes after you&#8217;ve sent <a href="/2013/pvp-reworked-no-more-insane-minion-spamming/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Previously in PvP you could easily win a game by sending the same minion so fast the opponents towers couldn&#8217;t keep up. This caused problems where the best strategy was to &#8220;press all the buttons!&#8221;.</p>
+<p>Now you only have a stock of 5 of each minion type to send, this stock refreshes after you&#8217;ve sent them and alongside this when your minions die they drop a gem which you can collect to instantly refresh the stock for that minion type.</p>
+<p>So far it seems much more fun than pressing buttons until your fingers bleed, and adds more strategy to the game as well as another way to separate the pros from the pretenders.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/pvp-reworked-no-more-insane-minion-spamming/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mobile mode! Sound! Victory Screens! Hotkeys! Improve all the things!</title>
+		<link>/2013/mobile-mode-sound-victory-screens-hotkeys-improve-all-the-things/</link>
+					<comments>/2013/mobile-mode-sound-victory-screens-hotkeys-improve-all-the-things/#comments</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Fri, 28 Jun 2013 08:48:13 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[PvP Mode]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<category><![CDATA[Survival Mode]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[Multiplayer Tower Defense]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=206</guid>
+
+					<description><![CDATA[June has brought an explosion of creativity for Tower Storm. It&#8217;s the first time the servers have been scaling and completely stable in a while so we could really drill into the gameplay and UI to tweak and refine over and over. New smaller more fun levels The first major change is to the level <a href="/2013/mobile-mode-sound-victory-screens-hotkeys-improve-all-the-things/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>June has brought an explosion of creativity for Tower Storm. It&#8217;s the first time the servers have been scaling and completely stable in a while so we could really drill into the gameplay and UI to tweak and refine over and over.</p>
+<p><strong>New smaller more fun levels</strong></p>
+<p>The first major change is to the level sizes. You&#8217;ll notice both maps are a lot smaller and have much more going on. We discovered through trial and error that many users were confused at the massive PvP map and also on mobiles and tablets maps that require both vertical and horizontal scrolling are hard to play. So now the game is much more fun to play on iPhone 4/5 and most modern android phones.</p>
+<p><strong>Play on your mobile!</strong></p>
+<p>If you wish to play Tower Storm on your mobile simply go to <a title="Tower Storm Game" href="http://game.towerstorm.com/">http://game.towerstorm.com/</a> in your mobile web browser and hold it in landscape mode. Please let me know if it does or doesn&#8217;t work on your mobile and what version of android / iOS you&#8217;re running so I can make sure it works flawlessly on all phones. If your phone was released in the last 2 years it should be able to play Tower Storm,.</p>
+<p><strong>Sound!</strong></p>
+<p><strong></strong>Tower Storm now has sound and music! It currently works on all PC browsers that can play Tower Storm and some mobiles. Sound is an important aspect and I want to make sure it sounds right and adds to the gameplay. We&#8217;re still working on giving you more feedback using sound and visual features when you send minions, or minions die, or you get more income.</p>
+<p><strong>Victory Screens</strong></p>
+<p><strong></strong>Having the game freeze with a text message when you win or lose is not a fun experience. Victory / Defeat screens are finally in the game and we&#8217;re working on adding end game stats which gives details on how much gold you earnt, minions you killed and so on so you can take a screenshot and brag to your friends <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Hotkeys</strong></p>
+<p>Pointing and clicking your mouse on buttons all day is a boring experience. So we&#8217;ve added hotkeys to tower building and minion sending to make it much more fun (and you can send waves of minions while you&#8217;re still building your tower fortress). The hotkeys for each button are in the top left corner or if you can&#8217;t see them they are QWER for towers and ASDFZXCV for minions (left to right and top to bottom in cost).</p>
+<p>Enjoy and as always I love to hear your feedback good or bad, let me know what you think.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/mobile-mode-sound-victory-screens-hotkeys-improve-all-the-things/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Prepare yourself &#8211; a gameplay overhaul is coming!</title>
+		<link>/2013/prepare-yourself-a-gameplay-overhaul-is-coming/</link>
+					<comments>/2013/prepare-yourself-a-gameplay-overhaul-is-coming/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Wed, 10 Apr 2013 12:34:36 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[PvP Mode]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=179</guid>
+
+					<description><![CDATA[Yes we&#8217;ve been quiet for a while, unfortunately here at TowerStorm HQ we&#8217;ve had to get lots of businessy stuff sorted with milestones and long term plans and such so we aren&#8217;t simply flailing around any more 😉 Luckily in all this madness we&#8217;ve still found time to work on the next phase of Tower Storm: Making <a href="/2013/prepare-yourself-a-gameplay-overhaul-is-coming/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Yes we&#8217;ve been quiet for a while, unfortunately here at TowerStorm HQ we&#8217;ve had to get lots of businessy stuff sorted with milestones and long term plans and such so we aren&#8217;t simply flailing around any more <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Luckily in all this madness we&#8217;ve still found time to work on the next phase of Tower Storm: Making it look and feel like an actual game, rather than just a tech demo!</p>
+<p>Playing a game in a 960 x 640 window in your browser isn&#8217;t all that fun, so we&#8217;ve expanded the size to a more acceptable resolution. The map is also even larger than this resolution so you&#8217;ll have to scroll around via click and drag to see it all.</p>
+<p>We&#8217;ve also created a whole new map this time with 3 spawn points and lanes for each team. This will make playing with your friends much more exciting as now when one goes off to each lunch half way through you&#8217;ll notice his absence via the minions swarming down his empty lane. You don&#8217;t have to take a lane each of course you could spread all your towers out to provide the best minion destruction possible. The map is still a draft just to see how the gameplay works with 3 lanes, give us your feedback on how it plays.</p>
+<p>Unfortunately the bots haven&#8217;t been updated to work with this new map yet so you&#8217;ll find games against them are quite easy.</p>
+<p>The screenshot today is fairly self explanatory <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> And yes I have been watching game of thrones, it&#8217;s fucking awesome.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/prepare-yourself-a-gameplay-overhaul-is-coming/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Avast ye swabs, name and team selection have arrived!</title>
+		<link>/2013/avast-ye-swabs-name-and-team-selection-have-arrived/</link>
+					<comments>/2013/avast-ye-swabs-name-and-team-selection-have-arrived/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Mon, 28 Jan 2013 07:35:24 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[PvP Mode]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=119</guid>
+
+					<description><![CDATA[Yarr! From the briney depths of the labs of coding we bring to you the ability to set your name and team. To set your name simply double click on it in game and an edit box will appear, once you click away or hit enter your name will be changed. There are 2 teams, <a href="/2013/avast-ye-swabs-name-and-team-selection-have-arrived/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Yarr! From the briney depths of the labs of coding we bring to you the ability to set your name and team.</p>
+<p>To set your name simply double click on it in game and an edit box will appear, once you click away or hit enter your name will be changed.</p>
+<p>There are 2 teams, team 0 who control the top half of the map and team 1 who are masters of the bottom half. You&#8217;ll need at least one player on each team to play a game.</p>
+<p>This allows you to play 2 vs 2 or larger matches (5 vs 5 anyone?) and also pair up with a friend to vs bots (once they&#8217;re available) and work together to smash them into the ground.</p>
+<p>Will you fight for the valiant team 1 or the enduring team 1, the decision is yours! (Team names subject to change when we develop the back-story of Tower Storm)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/avast-ye-swabs-name-and-team-selection-have-arrived/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

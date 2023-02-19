@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Videos &#8211; Tower Storm</title>
+	<atom:link href="/category/videos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Fri, 04 Apr 2014 08:08:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Tower Storm 0.3 patch preview</title>
+		<link>/2014/tower-storm-0-3-patch-preview/</link>
+					<comments>/2014/tower-storm-0-3-patch-preview/#comments</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Fri, 04 Apr 2014 08:08:37 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=318</guid>
+
+					<description><![CDATA[It&#8217;s been a while since Tower Storm has had an update as we&#8217;ve been working flat out completely overhauling the game including adding all new graphics, towers, minions and gameplay, creating what we believe is the next evolution in Tower Defense games. Now we&#8217;re finally ready to show the world. Check out the video above <a href="/2014/tower-storm-0-3-patch-preview/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p><iframe width="960" height="540" src="https://www.youtube.com/embed/vIJqZGppTeg?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>It&#8217;s been a while since Tower Storm has had an update as we&#8217;ve been working flat out completely overhauling the game including adding all new graphics, towers, minions and gameplay, creating what we believe is the next evolution in Tower Defense games.</p>
+<p>Now we&#8217;re finally ready to show the world. Check out the video above to see the new gameplay and all the new graphics and strategy we&#8217;ve added to the game and let us know what you think.</p>
+<p>The new version it not yet live but will go live in the next few days and we&#8217;ll post another update when it does.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/tower-storm-0-3-patch-preview/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

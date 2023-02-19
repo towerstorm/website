@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Performance &#8211; Tower Storm</title>
+	<atom:link href="/category/performance/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Mon, 02 Jun 2014 04:53:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Souls reworked to make the gameplay more interesting. Desyncs eliminated.</title>
+		<link>/2014/souls-reworked-to-make-the-gameplay-more-interesting-desyncs-eliminated/</link>
+					<comments>/2014/souls-reworked-to-make-the-gameplay-more-interesting-desyncs-eliminated/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2014 04:53:33 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[Performance]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=369</guid>
+
+					<description><![CDATA[Souls reworked Since the last release we&#8217;ve been trying to improve a few weak areas in the gameplay and lore of Tower Storm. The 3 core things we wanted to improve are: Having only 5 of each minion type available meant even if you found a weak spot in your opponents defenses, such as a <a href="/2014/souls-reworked-to-make-the-gameplay-more-interesting-desyncs-eliminated/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<h3>Souls reworked</h3>
+<p>Since the last release we&#8217;ve been trying to improve a few weak areas in the gameplay and lore of Tower Storm. The 3 core things we wanted to improve are:</p>
+<ul>
+<li>Having only 5 of each minion type available meant even if you found a weak spot in your opponents defenses, such as a lack of anti air or mostly magical damage turrets, you couldn&#8217;t exploit that weakness very well.</li>
+<li>Why are minions colliding with towers and vanishing? Where did their souls go? If these castles are supposed to be captured why are we killing them?</li>
+<li>The soul eater tower (shadow ultimate) kills every unit instantly. So it was far too weak early game and far too powerful late game and even when we tried to balance it it didn&#8217;t feel quite right.</li>
+</ul>
+<p>We&#8217;ve dealt with these 3 issues by making souls a more core part of the gameplay. </p>
+<p>We&#8217;ve eliminated the maximum of 5 of each minion and instead you now have a maximum of 20 souls available to spend as you like. So now when you notice your opponent has little anti air you can send 20 wraiths to destroy his castles in the blink of an eye. Souls restock every 3 seconds and clicking on souls also restocks your supply (up to a maxium of 20). Level 1 minions require 1 soul to send, level 2 minions require 2 souls and so on. This means you can send less minions overall late game but they will be much more powerful. </p>
+<p>The lore of the game world (which we&#8217;ll be posting on this blog soon) is that the races have come to this world to capture ancient runes that give them power. These ancient runes are the castles you see on the map. So it doesn&#8217;t make much sense that the minions are killing the castles.  </p>
+<p>Rather than minions having damage and aiming to destroy castles they now capture them by sacrificing their souls. Each of the 2 smaller castles requires 10 souls to capture and the larger one requires 20. Because higher level minions have more souls they capture the castles faster. So a small castle requires 10 level 1 minions to capture, or only 5 level 2&#8217;s (10 souls total) or 4 level 3&#8217;s (12 souls total). </p>
+<p>Lastly we&#8217;ve balanced the soul eater by making it deal X souls in damage. At level 1 it consumes 1 soul, at level 2 it consumes 2 souls etc. So if you have a level 1 soul eater and your opponent sends a level 2 minion it will suck 50% of it&#8217;s life away. If your opponent sends a level 3 minion it will suck 33% of its life away etc. The amount of damage it deals depends on it&#8217;s level and the minions level. </p>
+<h3>Performance improvements</h3>
+<p>I&#8217;ve been spending a lot of time simulating lag and ensuring tower storm is smooth and playable even on some of the worst internet in the world. Desyncs (where the game refreshes half way through a match) should be completely eliminated now. If you notice any further desyncs please let us know. Also the game should be a lot less jittery on bad connections due to some improvements in the network code. </p>
+<h3>Balance changes</h3>
+<p>The Architects damage tower was far too overpowered when placed along side towers that attack fast such as the road spikes, flamethrower or laser turret. We&#8217;ve reworked this tower to now give a DPS (damage per second) boost instead of a flat damage boost. So it is far stronger alongside slower towers and less powerful alongside faster towers. </p>
+<p>The featured image today is a z-brush render of the ice elemental, pre-texturing and animation. </p>
+<p>Enjoy and let us know what you think!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/souls-reworked-to-make-the-gameplay-more-interesting-desyncs-eliminated/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Server stability ++</title>
+		<link>/2013/server-stability/</link>
+					<comments>/2013/server-stability/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Mon, 25 Feb 2013 07:29:55 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Performance]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=146</guid>
+
+					<description><![CDATA[Over the last week (and a bit) I&#8217;ve been working heavily on improving the servers performance and stability. Previously after games had ended many variables and code would still be running in the background causing the servers to get slower and slower over time until eventually they ran out of memory and died. This issue <a href="/2013/server-stability/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Over the last week (and a bit) I&#8217;ve been working heavily on improving the servers performance and stability. Previously after games had ended many variables and code would still be running in the background causing the servers to get slower and slower over time until eventually they ran out of memory and died.</p>
+<p>This issue has now been completely fixed and stability so far seems awesome, you can play games with many players and bots over and over and over again and the servers will stay alive for as long as you&#8217;d like to play <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>I also went to a meetup on AWS last week and met some awesome coders from<a href="http://halfbrick.com/"> Half brick </a>who gave many tips and ideas on ways to scale out using amazon&#8217;s servers and improve the server performance even further.</p>
+<p>It&#8217;s great to learn from those who&#8217;ve &#8220;been there, done that&#8221; and If you&#8217;re working on your own games or projects I highly recommend going to <a href="http://www.meetup.com/">meetup.com</a>, finding meetups in your niche and talking to experts in your industry. I really hope to talk with them (and any other NodeJS or server experts) more in the future to squeeze every last drop of performance out of the game to make as amazing experience as possible for you.</p>
+<p>Today&#8217;s screenshot is of a hectic 2 vs 2 battle I played last week. If you haven&#8217;t had any team games yet try it out &#8211; I guarantee you&#8217;ll love it.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/server-stability/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

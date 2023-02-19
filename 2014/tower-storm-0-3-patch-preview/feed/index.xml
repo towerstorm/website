@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Tower Storm 0.3 patch preview	</title>
+	<atom:link href="/2014/tower-storm-0-3-patch-preview/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/tower-storm-0-3-patch-preview/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Thu, 10 Apr 2014 20:42:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: jansky		</title>
+		<link>/2014/tower-storm-0-3-patch-preview/#comment-41</link>
+
+		<dc:creator><![CDATA[jansky]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2014 20:42:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=318#comment-41</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2014/tower-storm-0-3-patch-preview/#comment-40&quot;&gt;towerstorm&lt;/a&gt;.
+
+Not really. Having played the new version of Tower Storm (I am a friend of Kevin), I can say it&#039;s definitely better than V1, but sometimes it&#039;s nice to go back. I will say that I like the minions in V1 a bit more than in V2, but that&#039;s just my opinion.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2014/tower-storm-0-3-patch-preview/#comment-40">towerstorm</a>.</p>
+<p>Not really. Having played the new version of Tower Storm (I am a friend of Kevin), I can say it&#8217;s definitely better than V1, but sometimes it&#8217;s nice to go back. I will say that I like the minions in V1 a bit more than in V2, but that&#8217;s just my opinion.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: towerstorm		</title>
+		<link>/2014/tower-storm-0-3-patch-preview/#comment-40</link>
+
+		<dc:creator><![CDATA[towerstorm]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2014 23:18:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=318#comment-40</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2014/tower-storm-0-3-patch-preview/#comment-39&quot;&gt;jansky&lt;/a&gt;.
+
+It will be retired. Is there something you like more about V1 than this version?]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2014/tower-storm-0-3-patch-preview/#comment-39">jansky</a>.</p>
+<p>It will be retired. Is there something you like more about V1 than this version?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: jansky		</title>
+		<link>/2014/tower-storm-0-3-patch-preview/#comment-39</link>
+
+		<dc:creator><![CDATA[jansky]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2014 23:04:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=318#comment-39</guid>
+
+					<description><![CDATA[When you release this new version, will you retire V1 or keep it online?]]></description>
+			<content:encoded><![CDATA[<p>When you release this new version, will you retire V1 or keep it online?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

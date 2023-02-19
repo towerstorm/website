@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Community &#8211; Tower Storm</title>
+	<atom:link href="/category/community/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Thu, 03 Oct 2013 08:00:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Tower Storm is now a real game &#8211; I&#8217;m working on it full time</title>
+		<link>/2013/tower-storm-is-now-a-real-game-im-working-on-it-full-time/</link>
+					<comments>/2013/tower-storm-is-now-a-real-game-im-working-on-it-full-time/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Thu, 03 Oct 2013 08:00:57 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=258</guid>
+
+					<description><![CDATA[I wanted to give a quick update to say that as of the end of this week I&#8217;ve finished up at my full time job at Wotif Group and am now 100% dedicated to working my ass off and making Tower Storm the best game it possibly can be. We&#8217;ve been seeing significant traction over <a href="/2013/tower-storm-is-now-a-real-game-im-working-on-it-full-time/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>I wanted to give a quick update to say that as of the end of this week I&#8217;ve finished up at my full time job at Wotif Group and am now 100% dedicated to working my ass off and making Tower Storm the best game it possibly can be. We&#8217;ve been seeing significant traction over the past few months and have a few big fans and lots of support and enthusiasm that has encouraged me to take the leap and do this full time.</p>
+<p>So be prepared for some major changes ahead, I&#8217;m super excited to take Tower Storm to the next level and I hope you&#8217;ll join me for this crazy fun ride. As always if you have suggestions and ideas let me know, I&#8217;m all ears and love hearing from fans of the game (your comments and support are what keep me going :))</p>
+<p>There haven&#8217;t been any game updates in September as I&#8217;ve been working with a friend on building out an awesome server management system and continuous release process that will allow us to release new versions quicker than ever before and on all mobile platforms without downtime or mobile clients going out of sync. But rest assured I&#8217;ve been fixing bugs and tweaking the game every single day and hopefully these updates will be rolled out shortly.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/tower-storm-is-now-a-real-game-im-working-on-it-full-time/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>We&#8217;re in Mozilla GameOn!</title>
+		<link>/2013/were-in-mozilla-gameon/</link>
+					<comments>/2013/were-in-mozilla-gameon/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Tue, 26 Feb 2013 07:31:13 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Media]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=150</guid>
+
+					<description><![CDATA[You can see our entry here: https://gameon.mozilla.org/en-US/entries/tower-storm/ It&#8217;s exciting times in the world of Browser based multiplayer gaming. It&#8217;s so awesome seeing big companies like Mozilla and Google get behind indie developers with competitions, prizes and publicity. Best of luck to everyone who&#8217;s entering and I can&#8217;t wait to play all the games! If you know <a href="/2013/were-in-mozilla-gameon/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>You can see our entry here: <a href="https://gameon.mozilla.org/en-US/entries/tower-storm/">https://gameon.mozilla.org/en-US/entries/tower-storm/</a></p>
+<p>It&#8217;s exciting times in the world of Browser based multiplayer gaming. It&#8217;s so awesome seeing big companies like Mozilla and Google get behind indie developers with competitions, prizes and publicity. Best of luck to everyone who&#8217;s entering and I can&#8217;t wait to play all the games!</p>
+<p>If you know of any other competitions open to early stage / prototype web games I&#8217;d love to hear about them, please send us an email via the <a title="Contact" href="http://www.towerstorm.com/contact/">contact form.</a></p>
+<p>Also because this competition doesn&#8217;t allow game updates during it we won&#8217;t be updating Tower Storm for the next week or so. Don&#8217;t worry I&#8217;ll still be adding new features, just they won&#8217;t be pushed live until after the competition.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/were-in-mozilla-gameon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>IRC Chat now live, come talk to the team</title>
+		<link>/2013/irc-chat-now-live-come-talk-to-the-team/</link>
+					<comments>/2013/irc-chat-now-live-come-talk-to-the-team/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Tue, 08 Jan 2013 19:28:06 +0000</pubDate>
+				<category><![CDATA[Community]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=57</guid>
+
+					<description><![CDATA[I&#8217;ve set up a chat room for anyone who&#8217;d like real time support or would like to organise a game against each other or the developers (it&#8217;s ok we&#8217;re really not that good at TS). You can connect to it by: Downloading an IRC Client, I recommend mIRC if you&#8217;ve never used IRC before. Clicking <a href="/2013/irc-chat-now-live-come-talk-to-the-team/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ve set up a chat room for anyone who&#8217;d like real time support or would like to organise a game against each other or the developers (it&#8217;s ok we&#8217;re really not that good at TS).</p>
+<p>You can connect to it by:</p>
+<ol>
+<li>Downloading an IRC Client, I recommend mIRC if you&#8217;ve never used IRC before.</li>
+<li><a title="TowerStorm IRC Channel" href="irc://irc.gamesurge.net/towerstorm">Clicking here</a></li>
+</ol>
+<p>Or to manually connect the server details are:</p>
+<p>URL: irc.gamesurge.net<br />
+Port: 6667<br />
+Channel: #towerstorm</p>
+<p>My name is Solace and I&#8217;m trying to be in there whenever possible.</p>
+<p>For those wondering the screenshot is from a hilariously terrible &#8220;catching the hackers&#8221; scene in numb3rs: http://www.youtube.com/watch?v=O2rGTXHvPCQ</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/irc-chat-now-live-come-talk-to-the-team/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

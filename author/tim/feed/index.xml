@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tim &#8211; Tower Storm</title>
+	<atom:link href="/author/tim/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Tue, 30 May 2017 02:13:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Tower Storm is now Open Source</title>
+		<link>/2017/tower-storm-is-now-open-source/</link>
+					<comments>/2017/tower-storm-is-now-open-source/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Mon, 29 May 2017 21:59:47 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Modding]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<guid isPermaLink="false">/?p=451</guid>
+
+					<description><![CDATA[Wow it&#8217;s been a while. Over 2 years since the last blog post! In that time I&#8217;ve moved between 4 cities on 3 different continents, from Brisbane to Amsterdam to New York to Seattle. Basically Tower Storm wasn&#8217;t working out for me financially and so I had to put my game development dreams on hold <a href="/2017/tower-storm-is-now-open-source/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Wow it&#8217;s been a while. Over 2 years since the last blog post! In that time I&#8217;ve moved between 4 cities on 3 different continents, from Brisbane to Amsterdam to New York to Seattle. Basically Tower Storm wasn&#8217;t working out for me financially and so I had to put my game development dreams on hold for a while. It turned out well though, I started working at <a href="http://c9.io/">Cloud9</a> where I&#8217;ve been working on an online IDE in Javascript and NodeJS (which you should totally use because it&#8217;s awesome). This has been a ton of fun and I&#8217;ve learnt a LOT. We then got acquired by Amazon in July last year which is why I ended up living in Seattle.</p>
+<p>I didn&#8217;t actually stop working on Tower Storm though. I didn&#8217;t update the blog because I didn&#8217;t release any new features but I was pushing out bug fixes and patches to keep the servers stable and improve the gameplay. Some of these features included being able to easily pan and zoom with your mouse and improving the general UI.</p>
+<p>Last year I realized I was probably never going to have the time to build Tower Storm into the massive TD game I always wanted to be. My original vision for Tower Storm was a Multiplayer TD game with as much depth as DOTA or League of Legends. Imagine a TD game where you can have up to 16 players on a huge map with hundreds of towers, minions and abilities! How awesome would that be! But there&#8217;s no way I&#8217;d have time to create all of this with my tiny team of friends, and there was very little chance someone was going to invest millions of dollars into making this happen (though if you&#8217;re out there, please let me know! ;))</p>
+<p>Which brings me to today&#8217;s announcement: <a href="http://github.com/towerstorm/game">Tower Storm is now Open Source</a>!</p>
+<p>With Tower Storm open sourced anyone in the world can grab a copy of the code and build their own maps, towers, minions, or even completely new game modes. Maybe someone will build a Story mode, or crazy new survival levels, or tribute maps to some of the best maps in Warcraft 3 (Azure TD, Skibis Castle, Burbenog, would all be awesome!). And if your creations are great I could add them to the main game so everyone can enjoy them.</p>
+<p>I&#8217;ve spent the last few months cleaning up the code base to make it super easy to run and make your own modifications. You don&#8217;t even need to be a programmer to make your own towers, minions or maps, you can just edit the simple text config file and refresh the page and your new creation will be in the game.</p>
+<p>Soon I&#8217;ll release some tutorials showing you how to work with the code and create your own mods. As well as setup forums so everyone can share their creations with each other.</p>
+<p>For now <a href="http://github.com/towerstorm/game">check out the game on Github</a> and let me know what cool creations you come up with!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/tower-storm-is-now-open-source/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New maps, gameplay, features and chat &#8211; the next evolution of Tower Storm is finally here</title>
+		<link>/2014/new-maps-gameplay-features-and-chat-the-next-evolution-of-tower-storm-is-finally-here/</link>
+					<comments>/2014/new-maps-gameplay-features-and-chat-the-next-evolution-of-tower-storm-is-finally-here/#comments</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2014 07:35:20 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=416</guid>
+
+					<description><![CDATA[Been craving some Multiplayer Tower Defense but bored of the single simple Tower Storm map? Your prayers have been answered! This has been and will forever be the longest wait between releases for Tower Storm. We were very ambitious taking all your ideas on board and building something great. Unfortunately it took a lot longer <a href="/2014/new-maps-gameplay-features-and-chat-the-next-evolution-of-tower-storm-is-finally-here/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Been craving some Multiplayer Tower Defense but bored of the single simple Tower Storm map? Your prayers have been answered!</p>
+<p>This has been and will forever be the longest wait between releases for Tower Storm. We were very ambitious taking all your ideas on board and building something great. Unfortunately it took a lot longer than expected due to almost all our entire back-end being overhauled and reworked to support matchmaking and all the new features we&#8217;re adding soon.</p>
+<p>So what&#8217;s new in this release?</p>
+<p><strong>Matchmaking Mode</strong></p>
+<p>No longer are you stuck playing Tower Storm with only your group of friends. Now you can take on the world! Matchmaking allows you to queue up by yourself or with up to 3 people and we&#8217;ll pair you with others of a similar skill level and throw you in a game together.</p>
+<p><strong>Leaderboard</strong></p>
+<p>No matchmaking system would be complete without a high scores table. As you win and lose matches your Elo score will go rise and fall and you can see your ranking versus everyone else in the world on the leader board.</p>
+<p><strong>Chat</strong></p>
+<p>Finally you can coordinate attacks and tell your team mates how terrible they&#8217;re playing!  There are 3 new types of chat in Tower Storm. You can add friends and when they&#8217;re online and click on their name to chat with them. You can chat in the matchmaking lobby to coordinate strategy. Lastly you can chat with your team mates in game to all attack at the same time or let them know where they should be building towers.</p>
+<p><strong>Brand new 5 lane map</strong></p>
+<p>We felt the old single lane map was getting a little long in the tooth. So we&#8217;ve retired it for now, instead adding a 5 lane much more exciting battlefield for you to play on.</p>
+<p>When you place minions on the map you now need to select them first then click on the spawn point you&#8217;d like them to spawn from.</p>
+<p><strong>Small castles with big bonuses</strong></p>
+<p>When you destroy small castles on the map your minions now get a health and speed boost. The more castles you kill the stronger they will be. You can click on castles to see what kind of boosts they give, some are much more powerful than others.</p>
+<p><b>Tower and Minion balances</b></p>
+<p>Most of the AOE towers have been slightly nerfed and all minions have had a health buff. We&#8217;re still working on balance and will be monitoring ranked games to see what races are too strong or weak. If you feel some races need a buff or nerf let us know.</p>
+<p><strong>Gold Changes</strong></p>
+<p>Income has been lowered and gold from killing minions has gone way up. You now get three times as much gold for killing a minion and both your allies get half that amount even if they didn&#8217;t participate in the kill. This allows you to focus purely on defence if you like while your allies go on the offensive.</p>
+<p>We hope you enjoy the new release and as always we love all your feedback. Let us know what you think!</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/new-maps-gameplay-features-and-chat-the-next-evolution-of-tower-storm-is-finally-here/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Contact form failure + responses to questions (matchmaking!)</title>
+		<link>/2014/contact-form-failure-responses-to-questions-matchmaking/</link>
+					<comments>/2014/contact-form-failure-responses-to-questions-matchmaking/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Wed, 02 Jul 2014 15:07:22 +0000</pubDate>
+				<category><![CDATA[Matchmaking]]></category>
+		<category><![CDATA[Questions and Answers]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=395</guid>
+
+					<description><![CDATA[Thank you everyone who sent in feedback now that the contact form is fixed, we really appreciate it! Unfortunately I discovered yesterday that email addresses weren&#8217;t being sent through with the form so I have no way to actually respond to your questions. Thus i&#8217;ve decided to answer them here instead: Dieter Schulte &#8211; Hey I <a href="/2014/contact-form-failure-responses-to-questions-matchmaking/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Thank you everyone who sent in feedback now that the contact form is fixed, we really appreciate it! Unfortunately I discovered yesterday that email addresses weren&#8217;t being sent through with the form so I have no way to actually respond to your questions. Thus i&#8217;ve decided to answer them here instead:</p>
+<hr />
+<p><span style="color: #222222;"><strong>Dieter Schulte</strong> &#8211; </span><span style="color: #222222;">Hey I love this game, you guys have done a wonderful job! My friends and I were wondering if you were planning on adding a matchmaking system of some sort. even if it doesn&#8217;t have a rating system attached to it?</span></p>
+<p><em>Hell yes! We&#8217;ve been wanting matchmaking for so long ourselves and you&#8217;ll be happy to know we&#8217;re just putting the finishing touches on the matchmaking system right now. It has a rating system and you can also find matches as a team of 2 or 3 too so you can play with your friends against others all over the world. It will also feature a ladder of the best Tower Storm players so we can see who the best player in the world really is. </em></p>
+<hr />
+<p><strong>David &#8211; </strong><span style="color: #222222;"> I love this game but am sad to see there is no matchmaking at all. Would love to see this as a feature if it&#8217;s still being updated.</span></p>
+<p><em>Ok ok, we&#8217;ll stop making you sad. Matchmaking will be available next patch! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </em></p>
+<hr />
+<p><strong><span style="color: #222222;">Alexia</span></strong> &#8211; <span style="color: #222222;">I found your game, played the tutorial and accidentally managed to bug it to get stuck. Basically I upgraded my first crossbow tower a few times, so by the time the tutorial told me to build a second tower the first one managed to kill it before I built the second. Now it just keeps telling me to build another crossbow even though I have! Hope you can fix it.</span></p>
+<p><em>Thanks for letting us know Alexia. We&#8217;ll get this fixed in the next release. </em></p>
+<hr />
+<p><span style="text-decoration: underline;"><strong><span style="color: #222222;">Chris Collins</span></strong><span style="color: #222222;"> </span></span>&#8211; <span style="color: #222222;">FREE all-in-one Home Security System</span></p>
+<p><i>Oh Chris, little do you know how useless a home security system is when droids and ice elementals have rocked up at your door. </i></p>
+<hr />
+<p>The bug with emails not coming through has been fixed too, so if you send anything through the contact form in the future I&#8217;ll be able to email you back <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/contact-form-failure-responses-to-questions-matchmaking/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Contact form working again</title>
+		<link>/2014/contact-form-working-again/</link>
+					<comments>/2014/contact-form-working-again/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Sun, 29 Jun 2014 16:19:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=393</guid>
+
+					<description><![CDATA[The Tower Storm contact us form is now working again. Unfortunately it broke when we moved web hosts a while ago and I didn&#8217;t notice until recently. If you&#8217;ve tried to send us feedback and received an error please send it again, we love all feedback good or bad.]]></description>
+										<content:encoded><![CDATA[<p>The Tower Storm<a title="Contact" href="http://www.towerstorm.com/contact/"> contact us </a>form is now working again. Unfortunately it broke when we moved web hosts a while ago and I didn&#8217;t notice until recently. If you&#8217;ve tried to send us feedback and received an error please send it again, we love all feedback good or bad.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/contact-form-working-again/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Souls reworked to make the gameplay more interesting. Desyncs eliminated.</title>
+		<link>/2014/souls-reworked-to-make-the-gameplay-more-interesting-desyncs-eliminated/</link>
+					<comments>/2014/souls-reworked-to-make-the-gameplay-more-interesting-desyncs-eliminated/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2014 04:53:33 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[Performance]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=369</guid>
+
+					<description><![CDATA[Souls reworked Since the last release we&#8217;ve been trying to improve a few weak areas in the gameplay and lore of Tower Storm. The 3 core things we wanted to improve are: Having only 5 of each minion type available meant even if you found a weak spot in your opponents defenses, such as a <a href="/2014/souls-reworked-to-make-the-gameplay-more-interesting-desyncs-eliminated/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<h3>Souls reworked</h3>
+<p>Since the last release we&#8217;ve been trying to improve a few weak areas in the gameplay and lore of Tower Storm. The 3 core things we wanted to improve are:</p>
+<ul>
+<li>Having only 5 of each minion type available meant even if you found a weak spot in your opponents defenses, such as a lack of anti air or mostly magical damage turrets, you couldn&#8217;t exploit that weakness very well.</li>
+<li>Why are minions colliding with towers and vanishing? Where did their souls go? If these castles are supposed to be captured why are we killing them?</li>
+<li>The soul eater tower (shadow ultimate) kills every unit instantly. So it was far too weak early game and far too powerful late game and even when we tried to balance it it didn&#8217;t feel quite right.</li>
+</ul>
+<p>We&#8217;ve dealt with these 3 issues by making souls a more core part of the gameplay. </p>
+<p>We&#8217;ve eliminated the maximum of 5 of each minion and instead you now have a maximum of 20 souls available to spend as you like. So now when you notice your opponent has little anti air you can send 20 wraiths to destroy his castles in the blink of an eye. Souls restock every 3 seconds and clicking on souls also restocks your supply (up to a maxium of 20). Level 1 minions require 1 soul to send, level 2 minions require 2 souls and so on. This means you can send less minions overall late game but they will be much more powerful. </p>
+<p>The lore of the game world (which we&#8217;ll be posting on this blog soon) is that the races have come to this world to capture ancient runes that give them power. These ancient runes are the castles you see on the map. So it doesn&#8217;t make much sense that the minions are killing the castles.  </p>
+<p>Rather than minions having damage and aiming to destroy castles they now capture them by sacrificing their souls. Each of the 2 smaller castles requires 10 souls to capture and the larger one requires 20. Because higher level minions have more souls they capture the castles faster. So a small castle requires 10 level 1 minions to capture, or only 5 level 2&#8217;s (10 souls total) or 4 level 3&#8217;s (12 souls total). </p>
+<p>Lastly we&#8217;ve balanced the soul eater by making it deal X souls in damage. At level 1 it consumes 1 soul, at level 2 it consumes 2 souls etc. So if you have a level 1 soul eater and your opponent sends a level 2 minion it will suck 50% of it&#8217;s life away. If your opponent sends a level 3 minion it will suck 33% of its life away etc. The amount of damage it deals depends on it&#8217;s level and the minions level. </p>
+<h3>Performance improvements</h3>
+<p>I&#8217;ve been spending a lot of time simulating lag and ensuring tower storm is smooth and playable even on some of the worst internet in the world. Desyncs (where the game refreshes half way through a match) should be completely eliminated now. If you notice any further desyncs please let us know. Also the game should be a lot less jittery on bad connections due to some improvements in the network code. </p>
+<h3>Balance changes</h3>
+<p>The Architects damage tower was far too overpowered when placed along side towers that attack fast such as the road spikes, flamethrower or laser turret. We&#8217;ve reworked this tower to now give a DPS (damage per second) boost instead of a flat damage boost. So it is far stronger alongside slower towers and less powerful alongside faster towers. </p>
+<p>The featured image today is a z-brush render of the ice elemental, pre-texturing and animation. </p>
+<p>Enjoy and let us know what you think!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/souls-reworked-to-make-the-gameplay-more-interesting-desyncs-eliminated/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tutorial available, crash bugs fixed and gameplay balanced</title>
+		<link>/2014/tutorial-available-crash-bugs-fixed-and-gameplay-balanced/</link>
+					<comments>/2014/tutorial-available-crash-bugs-fixed-and-gameplay-balanced/#comments</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Mon, 21 Apr 2014 09:36:10 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=334</guid>
+
+					<description><![CDATA[A quick patch this week to address some bugs and issues that have come up since launch. The first was the tutorial didn&#8217;t work, this has been fixed and you can now play the tutorial via the main game menu. Secondly there were some issues with servers running out of ram and crashing. I&#8217;ve done <a href="/2014/tutorial-available-crash-bugs-fixed-and-gameplay-balanced/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>A quick patch this week to address some bugs and issues that have come up since launch.</p>
+<p>The first was the tutorial didn&#8217;t work, this has been fixed and you can now play the tutorial via the main game menu.</p>
+<p>Secondly there were some issues with servers running out of ram and crashing. I&#8217;ve done some improvements to memory usage and cleanup and hopefully all these issues should now be gone.</p>
+<p>Lastly we&#8217;ve made some balance changes, they are listed below:</p>
+<ul>
+<li>Shadow Wraiths have had their movements speed reduced to 45 from 50.</li>
+<li>All towers for Architects and Elementals now have scaling damage. Previously their damage went up linearly (10 -&gt; 20 -&gt; 30), now their damage increases by 205% each level like most other turrets in the game. This means you can have a lot more late game impact and actually deal damage now when playing architects or elementals.</li>
+<li>Architects damage booster now boosts spikes and whirlwinds (bug fix).</li>
+<li>All minions have had their health increased by 20%. This is to compensate for the additional damage architects and elementals now deal.</li>
+</ul>
+<p>Enjoy and let us know what you think.</p>
+<p>&#8211; Solace</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/tutorial-available-crash-bugs-fixed-and-gameplay-balanced/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tower Storm 0.3 now live!</title>
+		<link>/2014/tower-storm-0-3-now-live/</link>
+					<comments>/2014/tower-storm-0-3-now-live/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Sat, 12 Apr 2014 04:20:54 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=326</guid>
+
+					<description><![CDATA[It&#8217;s FDA approved and ready for general consumption. The tutorial is currently broken so I&#8217;ve disabled it until I can get it working again. To celebrate I&#8217;m streaming Tower Storm and playing with fans (that&#8217;s you!) all day at http://www.twitch.tv/towerstorm.  You can also chat with us at http://chat.towerstorm.com./ So if you don&#8217;t know how to <a href="/2014/tower-storm-0-3-now-live/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s FDA approved and ready for general consumption. The tutorial is currently broken so I&#8217;ve disabled it until I can get it working again. To celebrate I&#8217;m streaming Tower Storm and playing with fans (that&#8217;s you!) all day at <a title="Tower Storm on Twitch" href="http://www.twitch.tv/towerstorm" target="_blank">http://www.twitch.tv/towerstorm</a>.  You can also chat with us at <a href="http://chat.towerstorm.com/" target="_blank">http://chat.towerstorm.com/</a>. So if you don&#8217;t know how to play come play with us on the stream and we&#8217;ll show you the ropes. Or if you do know how to play join the stream and come kick our asses.</p>
+<p>Enjoy and as always send me any feedback you have, suggestions and bug reports are always much appreciated.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/tower-storm-0-3-now-live/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tower Storm 0.3 patch preview</title>
+		<link>/2014/tower-storm-0-3-patch-preview/</link>
+					<comments>/2014/tower-storm-0-3-patch-preview/#comments</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Fri, 04 Apr 2014 08:08:37 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=318</guid>
+
+					<description><![CDATA[It&#8217;s been a while since Tower Storm has had an update as we&#8217;ve been working flat out completely overhauling the game including adding all new graphics, towers, minions and gameplay, creating what we believe is the next evolution in Tower Defense games. Now we&#8217;re finally ready to show the world. Check out the video above <a href="/2014/tower-storm-0-3-patch-preview/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p><iframe width="960" height="540" src="https://www.youtube.com/embed/vIJqZGppTeg?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>It&#8217;s been a while since Tower Storm has had an update as we&#8217;ve been working flat out completely overhauling the game including adding all new graphics, towers, minions and gameplay, creating what we believe is the next evolution in Tower Defense games.</p>
+<p>Now we&#8217;re finally ready to show the world. Check out the video above to see the new gameplay and all the new graphics and strategy we&#8217;ve added to the game and let us know what you think.</p>
+<p>The new version it not yet live but will go live in the next few days and we&#8217;ll post another update when it does.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/tower-storm-0-3-patch-preview/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bug fixes, Exploit fixes and More information</title>
+		<link>/2013/bug-fixes-exploit-fixes-and-more-information/</link>
+					<comments>/2013/bug-fixes-exploit-fixes-and-more-information/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2013 09:22:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=294</guid>
+
+					<description><![CDATA[Only a few minor updates to the gameplay this week as we&#8217;ve been working hard on the next generation of graphics for Tower Storm and also turning it into an Android app (if you&#8217;d like to test out the Android app when it&#8217;s ready let us know). Gameplay Fixes We recently realized that the Architects <a href="/2013/bug-fixes-exploit-fixes-and-more-information/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Only a few minor updates to the gameplay this week as we&#8217;ve been working hard on the next generation of graphics for Tower Storm and also turning it into an Android app (if you&#8217;d like to test out the Android app when it&#8217;s ready let us know).</p>
+<p><strong>Gameplay Fixes</strong></p>
+<p>We recently realized that the Architects damage booster tower was super over powered when combined with a fast firing turret such as the shadow dragon tower. So we&#8217;ve now added a damage cap into the game. Towers are now capped at 3 x their base damage. As an example the dragons rage tower deals 8 damage per shot and so no matter how many Damage Booster towers you build around it it&#8217;s never going to have more than 24 attack damage (3 x 8). If you upgrade the tower it has 16 base damage so has a damage cap of 48.</p>
+<p>We&#8217;ve also applied the same fix to speed boost towers, towers now have a speed cap of twice their base attack speed.</p>
+<p><strong>Bug Fixes</strong></p>
+<p>There were numerous bugs where upgrading towers and damage / speed boosters wouldn&#8217;t work correctly together, these have been fixed. The bug where you couldn&#8217;t sell a tower and place a tower in the same position again has also been fixed. If you notice any more bugs that still remain please let me know.</p>
+<p><strong>More Information</strong></p>
+<p>All towers now give information on their special abilities. Special attacks such as slow and poison from the druids race are shown in blue while auras that benefit nearby towers are shown in green.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/bug-fixes-exploit-fixes-and-more-information/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tower selling and 200% more sexiness</title>
+		<link>/2013/tower-selling-and-200-more-sexiness/</link>
+					<comments>/2013/tower-selling-and-200-more-sexiness/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2013 03:14:05 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<category><![CDATA[UI]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=286</guid>
+
+					<description><![CDATA[It&#8217;s been another full on week in Tower Storm HQ. For the first time ever we finally have a real background. The map layout is exactly the same however the new art makes the game actually look like a real game. Plus it covers the full screen on mobile devices so you no longer have <a href="/2013/tower-selling-and-200-more-sexiness/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s been another full on week in Tower Storm HQ. For the first time ever we finally have a real background. The map layout is exactly the same however the new art makes the game actually look like a real game. Plus it covers the full screen on mobile devices so you no longer have to endure ugly black borders around the playfield.</p>
+<p><strong>A smooth 60FPS</strong></p>
+<p>The game also runs far smoother than before with the addition of interpolation to the code. Previously no matter how fast your computer was Tower Storm would only run at 20 frames per second. This is because the network only updated 20 times per second and the game view only changed as new information came in from the network. Now with the addition of interpolation your computer will &#8220;fill in the gaps&#8221; between updates and use the full rendering power of your video card to render at a silky smooth 60 frames per second or more. At first you may get an effect similar to watching The Hobbit (or maybe that&#8217;s just me) where the game appears to look like a home movie but after a while your eyes will adjust and going back to the old 20 fps will look terrible.</p>
+<p><strong>Selling of Towers</strong></p>
+<p>If you accidentally throw down that damage booster just out of range of the rest of your defenses, or your friend starts bitching that you built your towers in an un-perfect layout you can now sell and start again. Selling towers only gives you 75% of your gold back, but it&#8217;s better than angering your friends right?</p>
+<p><strong>More info at your fingertips</strong></p>
+<p>Along with being able to sell and upgrade your towers the new tower info panel now shows you your towers stats as well as how powerful it will become after you upgrade it. It doesn&#8217;t yet show special abilities (such as how much slow ice shards does or how much boost the speed booster gives), this is coming very soon.</p>
+<p><strong>An in-game menu</strong></p>
+<p>You can now access the game menu via the cog in the top left of the screen. It currently only has a quit button which is useful for mobile devices but not so useful for PC&#8217;s.</p>
+<p><strong>Disabling of sound</strong></p>
+<p>If you wish to play with your own music rocking in the background or in silence on the train ride home you can now hit the speaker icon in the top left to disable all game sound and music completely.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/tower-selling-and-200-more-sexiness/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

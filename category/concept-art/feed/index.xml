@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Concept Art &#8211; Tower Storm</title>
+	<atom:link href="/category/concept-art/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Tue, 29 Jan 2013 01:52:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>I exploded the code.</title>
+		<link>/2013/i-exploded-the-code/</link>
+					<comments>/2013/i-exploded-the-code/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Tue, 29 Jan 2013 01:52:10 +0000</pubDate>
+				<category><![CDATA[Bots]]></category>
+		<category><![CDATA[Concept Art]]></category>
+		<category><![CDATA[Game Updates]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=128</guid>
+
+					<description><![CDATA[TL;DR &#8211; Servers are fine, I need more time to get bots going. Today I realized to make the bots work they&#8217;re going to have to load up a copy of the game code and run it as if they were a real player to make decisions. I was going to do a fuzzy simulation <a href="/2013/i-exploded-the-code/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>TL;DR &#8211; Servers are fine, I need more time to get bots going.</p>
+<p>Today I realized to make the bots work they&#8217;re going to have to load up a copy of the game code and run it as if they were a real player to make decisions. I was going to do a fuzzy simulation of the game in the bot code so they could guess where Towers should be placed and when to send minions but as the game evolves and gets more and more complex this is going to get completely out of hand.</p>
+<p>So I&#8217;ve had to move the core game logic out in to a separate project that is shared between the game server and the bots so they play together nicely. This means that the code is currently in a very broken state and it&#8217;s going to be at least another couple of days until the game is completely split into a separate module and then a few more days until bots are working.</p>
+<p>In the meantime, enjoy more of Johnny&#8217;s awesome art and play some team games! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>If anyone&#8217;s interested in the process of sharing code between multiple NodeJS Apps I&#8217;ll be doing a post on my personal blog (http://www.timjrobinson.com)/ soon. I felt it makes more sense to put it there as most of the readers of this site are not programmers and just want to play Tower Storm not learn of the wizardry behind it.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/i-exploded-the-code/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fixing bugs, adding bots</title>
+		<link>/2013/fixing-bugs-adding-bots/</link>
+					<comments>/2013/fixing-bugs-adding-bots/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Thu, 24 Jan 2013 12:14:05 +0000</pubDate>
+				<category><![CDATA[Concept Art]]></category>
+		<category><![CDATA[Game Updates]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=109</guid>
+
+					<description><![CDATA[Over the past few days I&#8217;ve been fixing some bugs with the game including one funny one where modern architects towers actually boosted their opponents towers too! Alongside this I&#8217;ve been working on one secret feature and also adding bots to the game so that you can have a play by yourself even if friends <a href="/2013/fixing-bugs-adding-bots/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Over the past few days I&#8217;ve been fixing some bugs with the game including one funny one where modern architects towers actually boosted their opponents towers too!</p>
+<p>Alongside this I&#8217;ve been working on one secret feature and also adding bots to the game so that you can have a play by yourself even if friends aren&#8217;t online (and get some practice in to destroy them next time you play ;))</p>
+<p>The bots will take a while to code, I&#8217;ll try and release a very basic version in the next week so you can send me feedback on them and let me know if they&#8217;re too easy, hard or just write in to tell me all the dumb things they do.</p>
+<p>Some more awesome shadow Tower Art from Johnny as the picture of the day, can&#8217;t wait till towers this awesome are in game <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/fixing-bugs-adding-bots/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Game reconnecting now available!</title>
+		<link>/2013/game-reconnecting-now-available/</link>
+					<comments>/2013/game-reconnecting-now-available/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Thu, 17 Jan 2013 11:01:02 +0000</pubDate>
+				<category><![CDATA[Concept Art]]></category>
+		<category><![CDATA[Game Updates]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=97</guid>
+
+					<description><![CDATA[It&#8217;s been a long and grueling 4 days but finally I&#8217;m proud to announce that Tower Storm now supports reconnecting to games. So if the game ever gets laggy, stops working or disconnects simply refresh the page and you&#8217;ll be right back into the game in under 10 seconds (hopefully&#8230; depending on your computer speed&#8230;). <a href="/2013/game-reconnecting-now-available/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s been a long and grueling 4 days but finally I&#8217;m proud to announce that Tower Storm now supports reconnecting to games. So if the game ever gets laggy, stops working or disconnects simply refresh the page and you&#8217;ll be right back into the game in under 10 seconds (hopefully&#8230; depending on your computer speed&#8230;).</p>
+<p>Go ahead and play and enjoy Tower Storm and let me know what you think. Remember it&#8217;s currently Multiplayer only, if you start a game by yourself you&#8217;re going to be very lonely, so challenge a friend to a match!</p>
+<p>Next up is adding more tooltips and help in game and also the ability to set your name, team and race.</p>
+<p>The art for today is some awesome concept art johnny has done for the Shadow Towers.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/game-reconnecting-now-available/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fixing disconnects, improving server stability</title>
+		<link>/2013/fixing-disconnects-improving-server-stability/</link>
+					<comments>/2013/fixing-disconnects-improving-server-stability/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Thu, 10 Jan 2013 10:31:49 +0000</pubDate>
+				<category><![CDATA[Concept Art]]></category>
+		<category><![CDATA[Game Updates]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=73</guid>
+
+					<description><![CDATA[My focus for the next few days is to get the game as stable as possible so everyone can enjoy full games without frustrating disconnects. I&#8217;m also adding the ability to reconnect to games if you disconnect or your browser crashes etc, not quite done yet. I noticed the server was down this morning, seems <a href="/2013/fixing-disconnects-improving-server-stability/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>My focus for the next few days is to get the game as stable as possible so everyone can enjoy full games without frustrating disconnects. I&#8217;m also adding the ability to reconnect to games if you disconnect or your browser crashes etc, not quite done yet.</p>
+<p>I noticed the server was down this morning, seems it finally ran out of memory. Game has been updated and server restarted now.</p>
+<p>The artwork for today is some amazing concept art of the Shadow Race done by Johnny the lead artist for Tower Storm. More art to come each day.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/fixing-disconnects-improving-server-stability/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

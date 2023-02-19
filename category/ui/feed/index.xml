@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>UI &#8211; Tower Storm</title>
+	<atom:link href="/category/ui/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Moddable Multiplayer Tower Defense</description>
+	<lastBuildDate>Mon, 11 Nov 2013 03:14:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Tower selling and 200% more sexiness</title>
+		<link>/2013/tower-selling-and-200-more-sexiness/</link>
+					<comments>/2013/tower-selling-and-200-more-sexiness/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2013 03:14:05 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<category><![CDATA[UI]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=286</guid>
+
+					<description><![CDATA[It&#8217;s been another full on week in Tower Storm HQ. For the first time ever we finally have a real background. The map layout is exactly the same however the new art makes the game actually look like a real game. Plus it covers the full screen on mobile devices so you no longer have <a href="/2013/tower-selling-and-200-more-sexiness/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s been another full on week in Tower Storm HQ. For the first time ever we finally have a real background. The map layout is exactly the same however the new art makes the game actually look like a real game. Plus it covers the full screen on mobile devices so you no longer have to endure ugly black borders around the playfield.</p>
+<p><strong>A smooth 60FPS</strong></p>
+<p>The game also runs far smoother than before with the addition of interpolation to the code. Previously no matter how fast your computer was Tower Storm would only run at 20 frames per second. This is because the network only updated 20 times per second and the game view only changed as new information came in from the network. Now with the addition of interpolation your computer will &#8220;fill in the gaps&#8221; between updates and use the full rendering power of your video card to render at a silky smooth 60 frames per second or more. At first you may get an effect similar to watching The Hobbit (or maybe that&#8217;s just me) where the game appears to look like a home movie but after a while your eyes will adjust and going back to the old 20 fps will look terrible.</p>
+<p><strong>Selling of Towers</strong></p>
+<p>If you accidentally throw down that damage booster just out of range of the rest of your defenses, or your friend starts bitching that you built your towers in an un-perfect layout you can now sell and start again. Selling towers only gives you 75% of your gold back, but it&#8217;s better than angering your friends right?</p>
+<p><strong>More info at your fingertips</strong></p>
+<p>Along with being able to sell and upgrade your towers the new tower info panel now shows you your towers stats as well as how powerful it will become after you upgrade it. It doesn&#8217;t yet show special abilities (such as how much slow ice shards does or how much boost the speed booster gives), this is coming very soon.</p>
+<p><strong>An in-game menu</strong></p>
+<p>You can now access the game menu via the cog in the top left of the screen. It currently only has a quit button which is useful for mobile devices but not so useful for PC&#8217;s.</p>
+<p><strong>Disabling of sound</strong></p>
+<p>If you wish to play with your own music rocking in the background or in silence on the train ride home you can now hit the speaker icon in the top left to disable all game sound and music completely.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/tower-selling-and-200-more-sexiness/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New game layout now live</title>
+		<link>/2013/new-game-layout-now-live/</link>
+					<comments>/2013/new-game-layout-now-live/#comments</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Fri, 18 Oct 2013 07:59:06 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[PvP Mode]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<category><![CDATA[UI]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=277</guid>
+
+					<description><![CDATA[Since the lobby overhaul is now complete I set about updating the game to match. I experimented with a few different layout styles including having the tower / minion buttons over the top of the battlefield and having the game go full screen even on HD monitors (which didn&#8217;t look so good unfortunately). Eventually I <a href="/2013/new-game-layout-now-live/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>Since the lobby overhaul is now complete I set about updating the game to match. I experimented with a few different layout styles including having the tower / minion buttons over the top of the battlefield and having the game go full screen even on HD monitors (which didn&#8217;t look so good unfortunately). Eventually I settled on the look and feel you see in the screenshot above.</p>
+<p>Some of the big changes in this release are</p>
+<ul>
+<li>The game battlefield now scales to any resolution, so you can play it on small mobile or tablet screens and it should fit correctly. Unfortunately the sidebars don&#8217;t scale so minions may sometimes be off the screen on smaller screens, this will be fixed soon.</li>
+<li>Instead of having health levels in the top left corner each players health is now shown on their castles. There is now a final castle for each player that has 100 health and the aim is to kill all your opponents castles.</li>
+<li>Fog of war has been removed &#8211; This is temporary and I&#8217;m looking to implement a new fog of war system in the future where you can see the opponents battlefield through a dark haze but only see new towers when minions pass by them. I removed fog of war so you can easily see your opponents health at all times.</li>
+</ul>
+<p>Let me know what you think and please give it a try on any phones / tablets you have. If it doesn&#8217;t work on your phone / tablet or feels off for some reason leave a comment on this post or send me an email and I&#8217;ll take a look on a similar model device and get it all fixed up. I want Tower Storm to run perfectly on every device!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/new-game-layout-now-live/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New lobby now live</title>
+		<link>/2013/new-lobby-now-live/</link>
+					<comments>/2013/new-lobby-now-live/#respond</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Wed, 16 Oct 2013 09:44:19 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[Multiplayer Tower Defense]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=272</guid>
+
+					<description><![CDATA[It feels good to get rid of that old piece of junk I used to call a lobby. The new one features 3 vs 3 battles emphasizing that Tower Storm is supposed to be a team game, locking in your choice of race so the host doesn&#8217;t start without you, descriptions of each tower for <a href="/2013/new-lobby-now-live/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>It feels good to get rid of that old piece of junk I used to call a lobby. The new one features 3 vs 3 battles emphasizing that Tower Storm is supposed to be a team game, locking in your choice of race so the host doesn&#8217;t start without you, descriptions of each tower for each race, and being able to kick players / bots from the game.</p>
+<p>Let me know if you find anything confusing or have suggestions to improve it. I love to hear your thoughts and ideas.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/new-lobby-now-live/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mobile mode! Sound! Victory Screens! Hotkeys! Improve all the things!</title>
+		<link>/2013/mobile-mode-sound-victory-screens-hotkeys-improve-all-the-things/</link>
+					<comments>/2013/mobile-mode-sound-victory-screens-hotkeys-improve-all-the-things/#comments</comments>
+		
+		<dc:creator><![CDATA[tim]]></dc:creator>
+		<pubDate>Fri, 28 Jun 2013 08:48:13 +0000</pubDate>
+				<category><![CDATA[Game Updates]]></category>
+		<category><![CDATA[Gameplay]]></category>
+		<category><![CDATA[PvP Mode]]></category>
+		<category><![CDATA[Screenshots]]></category>
+		<category><![CDATA[Survival Mode]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[Multiplayer Tower Defense]]></category>
+		<guid isPermaLink="false">http://www.towerstorm.com/?p=206</guid>
+
+					<description><![CDATA[June has brought an explosion of creativity for Tower Storm. It&#8217;s the first time the servers have been scaling and completely stable in a while so we could really drill into the gameplay and UI to tweak and refine over and over. New smaller more fun levels The first major change is to the level <a href="/2013/mobile-mode-sound-victory-screens-hotkeys-improve-all-the-things/" class="more-link">[&#8230;]</a>]]></description>
+										<content:encoded><![CDATA[<p>June has brought an explosion of creativity for Tower Storm. It&#8217;s the first time the servers have been scaling and completely stable in a while so we could really drill into the gameplay and UI to tweak and refine over and over.</p>
+<p><strong>New smaller more fun levels</strong></p>
+<p>The first major change is to the level sizes. You&#8217;ll notice both maps are a lot smaller and have much more going on. We discovered through trial and error that many users were confused at the massive PvP map and also on mobiles and tablets maps that require both vertical and horizontal scrolling are hard to play. So now the game is much more fun to play on iPhone 4/5 and most modern android phones.</p>
+<p><strong>Play on your mobile!</strong></p>
+<p>If you wish to play Tower Storm on your mobile simply go to <a title="Tower Storm Game" href="http://game.towerstorm.com/">http://game.towerstorm.com/</a> in your mobile web browser and hold it in landscape mode. Please let me know if it does or doesn&#8217;t work on your mobile and what version of android / iOS you&#8217;re running so I can make sure it works flawlessly on all phones. If your phone was released in the last 2 years it should be able to play Tower Storm,.</p>
+<p><strong>Sound!</strong></p>
+<p><strong></strong>Tower Storm now has sound and music! It currently works on all PC browsers that can play Tower Storm and some mobiles. Sound is an important aspect and I want to make sure it sounds right and adds to the gameplay. We&#8217;re still working on giving you more feedback using sound and visual features when you send minions, or minions die, or you get more income.</p>
+<p><strong>Victory Screens</strong></p>
+<p><strong></strong>Having the game freeze with a text message when you win or lose is not a fun experience. Victory / Defeat screens are finally in the game and we&#8217;re working on adding end game stats which gives details on how much gold you earnt, minions you killed and so on so you can take a screenshot and brag to your friends <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Hotkeys</strong></p>
+<p>Pointing and clicking your mouse on buttons all day is a boring experience. So we&#8217;ve added hotkeys to tower building and minion sending to make it much more fun (and you can send waves of minions while you&#8217;re still building your tower fortress). The hotkeys for each button are in the top left corner or if you can&#8217;t see them they are QWER for towers and ASDFZXCV for minions (left to right and top to bottom in cost).</p>
+<p>Enjoy and as always I love to hear your feedback good or bad, let me know what you think.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/mobile-mode-sound-victory-screens-hotkeys-improve-all-the-things/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
